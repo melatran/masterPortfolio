@@ -21,7 +21,7 @@ class DegreeCard extends Component {
             />
           </div>
         </Flip>
-        <Fade right duration={2000} distance="40px">
+        <Fade right duration={2000} distance="30px">
           <div className="card-body">
             <div
               className="body-header"
@@ -49,20 +49,6 @@ class DegreeCard extends Component {
                   </p>
                 );
               })}
-              <a
-                href={degree.website_link}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <div
-                  className="visit-btn"
-                  style={{ backgroundColor: theme.headerColor }}
-                >
-                  <p className="btn" style={{ color: theme.text }}>
-                    Visit Website
-                  </p>
-                </div>
-              </a>
             </div>
           </div>
         </Fade>
