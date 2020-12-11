@@ -8,7 +8,7 @@ const greeting = {
   logo_name: "Melanie Tran",
   nickname: "Software Engineer",
   subTitle:
-    "My vision is to be an empathetic developer working on projects to improve the lives of underrepresented groups and promoting for diverse representation in the field of Tony Starks",
+    "My developer vision is to create inclusive projects in the field of Tony Starks for my diverse community",
   resumeLink:
     "https://www.canva.com/design/DAEPzGf5geM/RO5Wm30Qngvz4K2svRnunA/view?utm_content=DAEPzGf5geM&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu",
   portfolio_repository: "https://github.com/melatran",
@@ -45,7 +45,9 @@ const skills = {
         "⚡ Collaborate with Frontend developers to build out apps",
         "⚡ Test driven development and debugging",
         "⚡ Experience working with PostgreSQL and MongoDB",
-        "⚡ Create application backend in Ruby, Node, Express, Python, Django,",
+        "⚡ Create application backend using Ruby on Rails, Node, Express, Django",
+        "⚡ Experience interacting with Firebase service",
+        "⚡ Worked in Ruby, JavaScript, Typescript, and Python",
       ],
       softwareSkills: [
         {
@@ -75,6 +77,20 @@ const skills = {
           fontAwesomeClassname: "simple-icons:mongodb",
           style: {
             color: "#47A248",
+          },
+        },
+        {
+          skillName: "NPM",
+          fontAwesomeClassname: "simple-icons:npm",
+          style: {
+            color: "#CB3837",
+          },
+        },
+        {
+          skillName: "Yarn",
+          fontAwesomeClassname: "simple-icons:yarn",
+          style: {
+            color: "#2C8EBB",
           },
         },
       ],
@@ -110,32 +126,11 @@ const skills = {
           },
         },
         {
-          skillName: "JavaScript",
+          skillName: "Vanilla JavaScript",
           fontAwesomeClassname: "simple-icons:javascript",
           style: {
             backgroundColor: "#000000",
             color: "#F7DF1E",
-          },
-        },
-        {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
-          style: {
-            color: "#339933",
-          },
-        },
-        {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
-          style: {
-            color: "#CB3837",
-          },
-        },
-        {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
-          style: {
-            color: "#2C8EBB",
           },
         },
       ],
