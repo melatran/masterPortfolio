@@ -1,1 +1,2444 @@
-{"data":[{"id":"MDExOlB1bGxSZXF1ZXN0NDA5NDQxNDk1","title":"Migrated some files from TF 1.0 to 2.0","url":"https://github.com/tensorflow/addons/pull/1746","state":"OPEN","mergedBy":null,"createdAt":"2020-04-27T11:34:31Z","number":1746,"changedFiles":2,"additions":1,"deletions":6,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDA5MDU3MDUz","title":"Added tutorial notebooks for Focal and Contrastive losses","url":"https://github.com/tensorflow/addons/pull/1732","state":"OPEN","mergedBy":null,"createdAt":"2020-04-26T10:17:22Z","number":1732,"changedFiles":2,"additions":512,"deletions":0,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDA4OTAxNTAy","title":"Fixed CyclicLearningRate and its tests' errors","url":"https://github.com/tensorflow/addons/pull/1729","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars0.githubusercontent.com/u/18154355?u=f54c237b8932acf13dcfcd495ca8c8e6a3cbaae4&v=4","url":"https://github.com/seanpmorgan","login":"seanpmorgan"},"createdAt":"2020-04-25T12:33:41Z","number":1729,"changedFiles":2,"additions":60,"deletions":12,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDA4ODY0NDU1","title":"Added serializability tests in all optimizers and fixed serializability bug in yogi","url":"https://github.com/tensorflow/addons/pull/1728","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars0.githubusercontent.com/u/18154355?u=f54c237b8932acf13dcfcd495ca8c8e6a3cbaae4&v=4","url":"https://github.com/seanpmorgan","login":"seanpmorgan"},"createdAt":"2020-04-25T07:19:04Z","number":1728,"changedFiles":10,"additions":80,"deletions":2,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDA3ODkzNjM0","title":"Setting up complete workflow for project","url":"https://github.com/ashutosh1919/masterPortfolio/pull/4","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","url":"https://github.com/ashutosh1919","login":"ashutosh1919"},"createdAt":"2020-04-23T12:48:04Z","number":4,"changedFiles":19,"additions":38,"deletions":47,"baseRepository":{"name":"masterPortfolio","url":"https://github.com/ashutosh1919/masterPortfolio","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","login":"ashutosh1919","url":"https://github.com/ashutosh1919"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDA3ODgxNTk0","title":"Test PR to setup workflow","url":"https://github.com/ashutosh1919/masterPortfolio/pull/3","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","url":"https://github.com/ashutosh1919","login":"ashutosh1919"},"createdAt":"2020-04-23T12:24:42Z","number":3,"changedFiles":1,"additions":32,"deletions":0,"baseRepository":{"name":"masterPortfolio","url":"https://github.com/ashutosh1919/masterPortfolio","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","login":"ashutosh1919","url":"https://github.com/ashutosh1919"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDA3MDkwMTk5","title":"Added layer_test in addons and refactoring the code","url":"https://github.com/tensorflow/addons/pull/1715","state":"OPEN","mergedBy":null,"createdAt":"2020-04-22T07:05:25Z","number":1715,"changedFiles":1,"additions":84,"deletions":2,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDA1NTk5NjAx","title":"Added Center loss","url":"https://github.com/tensorflow/addons/pull/1709","state":"OPEN","mergedBy":null,"createdAt":"2020-04-19T03:52:25Z","number":1709,"changedFiles":3,"additions":131,"deletions":1,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDA1NDkyMDkw","title":"Fixed _save_model not working for batches in ModelCheckpoint Callback","url":"https://github.com/tensorflow/tensorflow/pull/38669","state":"OPEN","mergedBy":null,"createdAt":"2020-04-18T12:26:37Z","number":38669,"changedFiles":1,"additions":16,"deletions":8,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDA1NDQ3MTk1","title":"Fixed average_model_checkpoint to have integer save_freq","url":"https://github.com/tensorflow/addons/pull/1702","state":"OPEN","mergedBy":null,"createdAt":"2020-04-18T05:20:34Z","number":1702,"changedFiles":2,"additions":27,"deletions":1,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDA1MTAzNjY3","title":"Added LossFunctionWrapper for losses and simplified code","url":"https://github.com/tensorflow/addons/pull/1688","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/11615393?u=9734b198bd7f7498157e95d48371c39e44b5002b&v=4","url":"https://github.com/WindQAQ","login":"WindQAQ"},"createdAt":"2020-04-17T12:27:37Z","number":1688,"changedFiles":6,"additions":46,"deletions":90,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDA0MTU2NDUy","title":"Added Multi Similarity loss","url":"https://github.com/tensorflow/addons/pull/1679","state":"OPEN","mergedBy":null,"createdAt":"2020-04-16T06:59:30Z","number":1679,"changedFiles":4,"additions":573,"deletions":0,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDAzNzQwMjM1","title":"Added demo of TQDMProgressBar() for evaluate()","url":"https://github.com/tensorflow/addons/pull/1674","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars0.githubusercontent.com/u/16867893?u=afbda060ede35cddb90255a8295460f6a2395135&v=4","url":"https://github.com/shun-lin","login":"shun-lin"},"createdAt":"2020-04-15T12:51:00Z","number":1674,"changedFiles":1,"additions":19,"deletions":1,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDAzMTcxMjA3","title":"Added tests for AverageModelCheckpoint() callback","url":"https://github.com/tensorflow/addons/pull/1667","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/12891691?u=7f49c0407749c186e5df5e1cecb8b2daa47846e3&v=4","url":"https://github.com/gabrieldemarmiesse","login":"gabrieldemarmiesse"},"createdAt":"2020-04-14T13:04:03Z","number":1667,"changedFiles":1,"additions":199,"deletions":0,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDAyOTg1MDU4","title":"Added code to call register_all() before loading model","url":"https://github.com/tensorflow/addons/pull/1665","state":"CLOSED","mergedBy":null,"createdAt":"2020-04-14T05:58:52Z","number":1665,"changedFiles":1,"additions":2,"deletions":0,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDAyNjMyMzcz","title":"Added code to pass appropriate logs to on_test|train_end() methods","url":"https://github.com/tensorflow/tensorflow/pull/38499","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-04-13T12:57:08Z","number":38499,"changedFiles":2,"additions":10,"deletions":6,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDAyMjg2MTk1","title":"Added TQDM Progressbar for evaluate()","url":"https://github.com/tensorflow/addons/pull/1649","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/12891691?u=7f49c0407749c186e5df5e1cecb8b2daa47846e3&v=4","url":"https://github.com/gabrieldemarmiesse","login":"gabrieldemarmiesse"},"createdAt":"2020-04-12T04:42:01Z","number":1649,"changedFiles":2,"additions":102,"deletions":58,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDAyMTg1MzUy","title":"Added new flexible loss named GeneralLoss","url":"https://github.com/tensorflow/addons/pull/1647","state":"OPEN","mergedBy":null,"createdAt":"2020-04-11T12:44:29Z","number":1647,"changedFiles":3,"additions":687,"deletions":0,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDAyMTM5OTM5","title":"Adding progress bar also while evaluating the model","url":"https://github.com/tensorflow/tensorflow/pull/38447","state":"CLOSED","mergedBy":null,"createdAt":"2020-04-11T04:46:51Z","number":38447,"changedFiles":1,"additions":3,"deletions":1,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDAxNzgxODEy","title":"Fixed broken links for post training quant and xla","url":"https://github.com/tensorflow/docs/pull/1535","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/47575114?u=14981fca962fe7d59cb7ab71cc53773edab7f494&v=4","url":"https://github.com/TensorFlow-Docs-Copybara","login":"TensorFlow-Docs-Copybara"},"createdAt":"2020-04-10T06:46:53Z","number":1535,"changedFiles":1,"additions":2,"deletions":2,"baseRepository":{"name":"docs","url":"https://github.com/tensorflow/docs","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDAwMTA5MjQ0","title":"Fixed broken link for seo.js","url":"https://github.com/apollographql/gatsby-theme-apollo/pull/111","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/1216917?u=91a9f4a5d3d20f7606ec40922d734abfaf170fd7&v=4","url":"https://github.com/trevorblades","login":"trevorblades"},"createdAt":"2020-04-07T08:09:48Z","number":111,"changedFiles":1,"additions":1,"deletions":1,"baseRepository":{"name":"gatsby-theme-apollo","url":"https://github.com/apollographql/gatsby-theme-apollo","owner":{"avatarUrl":"https://avatars0.githubusercontent.com/u/17189275?v=4","login":"apollographql","url":"https://github.com/apollographql"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzk5NTk4Mjk2","title":"Modified Social Card Design","url":"https://github.com/firecampapp/firecamp-doc/pull/37","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/5078921?u=d767ecc4f7897ef750ce123b35fb23ac3ced2589&v=4","url":"https://github.com/Nishchit14","login":"Nishchit14"},"createdAt":"2020-04-06T12:06:58Z","number":37,"changedFiles":2,"additions":105,"deletions":0,"baseRepository":{"name":"firecamp-doc","url":"https://github.com/firecampapp/firecamp-doc","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/45025286?v=4","login":"firecampapp","url":"https://github.com/firecampapp"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzk5MDI1MDc3","title":"header-button.js component shadowed to show the correct link","url":"https://github.com/firecampapp/firecamp-doc/pull/35","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/5078921?u=d767ecc4f7897ef750ce123b35fb23ac3ced2589&v=4","url":"https://github.com/Nishchit14","login":"Nishchit14"},"createdAt":"2020-04-05T10:57:55Z","number":35,"changedFiles":1,"additions":49,"deletions":0,"baseRepository":{"name":"firecamp-doc","url":"https://github.com/firecampapp/firecamp-doc","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/45025286?v=4","login":"firecampapp","url":"https://github.com/firecampapp"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzk4MDc0NjYy","title":"Added Basic Reveal Fade animations","url":"https://github.com/saadpasta/developerFolio/pull/76","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars0.githubusercontent.com/u/48270786?u=dab5f6dc64923f646b354f47f52af65f44fd9e7e&v=4","url":"https://github.com/kartik918","login":"kartik918"},"createdAt":"2020-04-03T09:52:10Z","number":76,"changedFiles":15,"additions":45,"deletions":0,"baseRepository":{"name":"developerFolio","url":"https://github.com/saadpasta/developerFolio","owner":{"avatarUrl":"https://avatars2.githubusercontent.com/u/23307811?u=eab46b153eef3f5183930e61898b462447af9219&v=4","login":"saadpasta","url":"https://github.com/saadpasta"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzk3OTQzMTk3","title":"Added basic animations","url":"https://github.com/saadpasta/developerFolio/pull/74","state":"CLOSED","mergedBy":null,"createdAt":"2020-04-03T05:21:40Z","number":74,"changedFiles":18,"additions":463,"deletions":295,"baseRepository":{"name":"developerFolio","url":"https://github.com/saadpasta/developerFolio","owner":{"avatarUrl":"https://avatars2.githubusercontent.com/u/23307811?u=eab46b153eef3f5183930e61898b462447af9219&v=4","login":"saadpasta","url":"https://github.com/saadpasta"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzk3NDkxODM2","title":"Added doc for absolute import from gatsby eslint rules or other tools","url":"https://github.com/gatsbyjs/gatsby/pull/22750","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15000607?u=96821f18af94d1574d81f3f50918fb51b595d2bf&v=4","url":"https://github.com/laurieontech","login":"laurieontech"},"createdAt":"2020-04-02T10:32:52Z","number":22750,"changedFiles":1,"additions":13,"deletions":0,"baseRepository":{"name":"gatsby","url":"https://github.com/gatsbyjs/gatsby","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/12551863?v=4","login":"gatsbyjs","url":"https://github.com/gatsbyjs"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzk2OTUwMDgy","title":"Corrected order of params of loss fn in custom_training.ipynb","url":"https://github.com/tensorflow/docs/pull/1528","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/47575114?u=14981fca962fe7d59cb7ab71cc53773edab7f494&v=4","url":"https://github.com/TensorFlow-Docs-Copybara","login":"TensorFlow-Docs-Copybara"},"createdAt":"2020-04-01T12:00:52Z","number":1528,"changedFiles":1,"additions":4,"deletions":4,"baseRepository":{"name":"docs","url":"https://github.com/tensorflow/docs","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzk0MDU1Njc1","title":"docs(accordion):  add ul wrapper for standalone panel","url":"https://github.com/uber/baseweb/pull/3119","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars0.githubusercontent.com/u/5317799?u=e5381f9c4ee2046154527e6276e38416fd7c8105&v=4","url":"https://github.com/chasestarr","login":"chasestarr"},"createdAt":"2020-03-26T09:36:30Z","number":3119,"changedFiles":2,"additions":6,"deletions":2,"baseRepository":{"name":"baseweb","url":"https://github.com/uber/baseweb","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/538264?v=4","login":"uber","url":"https://github.com/uber"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkzOTY1MDAz","title":"Added VariableV2 and VarHandleOp in python API of tesorflow","url":"https://github.com/tensorflow/tensorflow/pull/37925","state":"CLOSED","mergedBy":null,"createdAt":"2020-03-26T05:27:07Z","number":37925,"changedFiles":1,"additions":94,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkzNDgxODcy","title":"Modified docstring for minlex","url":"https://github.com/sympy/sympy/pull/18949","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars3.githubusercontent.com/u/90703?u=71efaf421eece4f1d4d342751045acdd15108c50&v=4","url":"https://github.com/smichr","login":"smichr"},"createdAt":"2020-03-25T09:39:40Z","number":18949,"changedFiles":1,"additions":9,"deletions":6,"baseRepository":{"name":"sympy","url":"https://github.com/sympy/sympy","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/260832?v=4","login":"sympy","url":"https://github.com/sympy"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkzNDU3NDQ2","title":"Added New book dao tests","url":"https://github.com/kiwix/kiwix-android/pull/1958","state":"CLOSED","mergedBy":null,"createdAt":"2020-03-25T08:43:57Z","number":1958,"changedFiles":1,"additions":90,"deletions":0,"baseRepository":{"name":"kiwix-android","url":"https://github.com/kiwix/kiwix-android","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/826219?v=4","login":"kiwix","url":"https://github.com/kiwix"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkyODI5NzM5","title":"Changed message for opening link in new tab dialog","url":"https://github.com/kiwix/kiwix-android/pull/1951","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars3.githubusercontent.com/u/3358282?v=4","url":"https://github.com/macgills","login":"macgills"},"createdAt":"2020-03-24T07:46:29Z","number":1951,"changedFiles":1,"additions":2,"deletions":2,"baseRepository":{"name":"kiwix-android","url":"https://github.com/kiwix/kiwix-android","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/826219?v=4","login":"kiwix","url":"https://github.com/kiwix"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkyNzc5NTI3","title":"Add behavioral note to VariableV2 and VarhandleOp","url":"https://github.com/tensorflow/tensorflow/pull/37855","state":"CLOSED","mergedBy":null,"createdAt":"2020-03-24T05:09:43Z","number":37855,"changedFiles":2,"additions":7,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkyNzY2NzIy","title":"Added example and description about numpy_function() in Dataset.map()","url":"https://github.com/tensorflow/tensorflow/pull/37853","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-03-24T04:19:08Z","number":37853,"changedFiles":1,"additions":17,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkyNDAyOTI2","title":"Modified TensorScatterAdd to correctly specify examples for shape of tensor","url":"https://github.com/tensorflow/tensorflow/pull/37832","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-03-23T13:58:48Z","number":37832,"changedFiles":1,"additions":7,"deletions":6,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkyMzA4MDUy","title":"Removed unnecessary examples for shape attribute which is not there in tensor_scatter_nd_add","url":"https://github.com/tensorflow/java/pull/35","state":"CLOSED","mergedBy":null,"createdAt":"2020-03-23T10:51:46Z","number":35,"changedFiles":1,"additions":7,"deletions":6,"baseRepository":{"name":"java","url":"https://github.com/tensorflow/java","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkyMTcxNjYw","title":"Modified spacing and comments in interpreter code in order to show it in codelabs","url":"https://github.com/tensorflow/examples/pull/178","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars1.githubusercontent.com/u/47573996?u=802a3f06345c20b7ec61bcd70779bbd88e6bc56b&v=4","url":"https://github.com/TensorFlow-Examples-Copybara","login":"TensorFlow-Examples-Copybara"},"createdAt":"2020-03-23T05:44:31Z","number":178,"changedFiles":1,"additions":1,"deletions":3,"baseRepository":{"name":"examples","url":"https://github.com/tensorflow/examples","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkyMTYxMjc3","title":"Added description of effect of regularization on validation and test","url":"https://github.com/tensorflow/tensorflow/pull/37816","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-03-23T05:11:44Z","number":37816,"changedFiles":1,"additions":6,"deletions":2,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkxOTY4ODE2","title":"Modified expand_path in config_parser to add environment var for mypy_path","url":"https://github.com/python/mypy/pull/8574","state":"OPEN","mergedBy":null,"createdAt":"2020-03-22T07:43:55Z","number":8574,"changedFiles":1,"additions":4,"deletions":0,"baseRepository":{"name":"mypy","url":"https://github.com/python/mypy","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/1525981?v=4","login":"python","url":"https://github.com/python"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkxOTYwMDI5","title":"Added example in the doc for TypeVar in using generic classes","url":"https://github.com/python/mypy/pull/8573","state":"OPEN","mergedBy":null,"createdAt":"2020-03-22T05:38:59Z","number":8573,"changedFiles":1,"additions":38,"deletions":0,"baseRepository":{"name":"mypy","url":"https://github.com/python/mypy","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/1525981?v=4","login":"python","url":"https://github.com/python"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg4MTg3MTgx","title":" Added evaluation metric mean_absolute_relative_error","url":"https://github.com/scikit-learn/scikit-learn/pull/16689","state":"CLOSED","mergedBy":null,"createdAt":"2020-03-14T06:43:13Z","number":16689,"changedFiles":10,"additions":162,"deletions":5,"baseRepository":{"name":"scikit-learn","url":"https://github.com/scikit-learn/scikit-learn","owner":{"avatarUrl":"https://avatars2.githubusercontent.com/u/365630?v=4","login":"scikit-learn","url":"https://github.com/scikit-learn"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg4MTY2Nzc4","title":"Added preprocessing and corrected example of RGB images before feeding rgb_to_yub","url":"https://github.com/tensorflow/tensorflow/pull/37592","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-03-14T05:28:38Z","number":37592,"changedFiles":1,"additions":8,"deletions":8,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg3ODA4OTcz","title":"Added pytype in tfds/core/lazy_imports_lib.py patch-9","url":"https://github.com/tensorflow/datasets/pull/1642","state":"OPEN","mergedBy":null,"createdAt":"2020-03-13T14:32:36Z","number":1642,"changedFiles":1,"additions":22,"deletions":20,"baseRepository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg3NzgyMjI5","title":"Added description for call() in tf.keras.layers.Layer","url":"https://github.com/tensorflow/tensorflow/pull/37574","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-03-13T13:39:28Z","number":37574,"changedFiles":1,"additions":6,"deletions":1,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg3NjYwMDQz","title":"Added code for preprocessing of YUV images before feeding yuv_to_rgb","url":"https://github.com/tensorflow/tensorflow/pull/37565","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-03-13T08:48:58Z","number":37565,"changedFiles":1,"additions":25,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg3MjU5MDU4","title":"Corrected order of parameters in keras WideDeepModel","url":"https://github.com/tensorflow/tensorflow/pull/37539","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-03-12T13:57:32Z","number":37539,"changedFiles":1,"additions":5,"deletions":5,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg3MjUwMTU0","title":"Added doc and examples for tf.keras.losses.get","url":"https://github.com/tensorflow/tensorflow/pull/37538","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-03-12T13:41:13Z","number":37538,"changedFiles":1,"additions":21,"deletions":2,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg3MTcxMDQy","title":"Fixed broken link for Bug & Performance issues","url":"https://github.com/tensorflow/community/pull/216","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars1.githubusercontent.com/u/9475?v=4","url":"https://github.com/ewilderj","login":"ewilderj"},"createdAt":"2020-03-12T10:49:48Z","number":216,"changedFiles":1,"additions":2,"deletions":1,"baseRepository":{"name":"community","url":"https://github.com/tensorflow/community","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg3MTU0NDY5","title":" Added code and descriptions for complete beginners in overview.ipynb","url":"https://github.com/tensorflow/datasets/pull/1633","state":"CLOSED","mergedBy":null,"createdAt":"2020-03-12T10:16:34Z","number":1633,"changedFiles":1,"additions":28,"deletions":1,"baseRepository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg3MTA3NzU0","title":"Added example related to top_k parameter in tf.keras.metrics.Precision","url":"https://github.com/tensorflow/tensorflow/pull/37528","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-03-12T08:34:26Z","number":37528,"changedFiles":1,"additions":12,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg0NjUzNjI3","title":"Added pytype in tfds/core/hashing.py patch-8","url":"https://github.com/tensorflow/datasets/pull/1592","state":"OPEN","mergedBy":null,"createdAt":"2020-03-06T06:18:21Z","number":1592,"changedFiles":1,"additions":6,"deletions":4,"baseRepository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg0NjQxMjUx","title":"Added pytype in tfds/core/file_format_adapter.py patch-7","url":"https://github.com/tensorflow/datasets/pull/1591","state":"OPEN","mergedBy":null,"createdAt":"2020-03-06T05:27:59Z","number":1591,"changedFiles":2,"additions":52,"deletions":19,"baseRepository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg0MDgxMzI2","title":"Added pytype in tfds/core/example_serializer.py patch-6","url":"https://github.com/tensorflow/datasets/pull/1578","state":"OPEN","mergedBy":null,"createdAt":"2020-03-05T05:51:54Z","number":1578,"changedFiles":2,"additions":31,"deletions":11,"baseRepository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg0MDY5Nzk5","title":"Added pytype in tfds/core/example_parser.py patch-5","url":"https://github.com/tensorflow/datasets/pull/1576","state":"OPEN","mergedBy":null,"createdAt":"2020-03-05T05:06:18Z","number":1576,"changedFiles":2,"additions":22,"deletions":9,"baseRepository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzgzNTkwMTcy","title":"Added pytype in tfds/core/dataset_utils.py patch-4","url":"https://github.com/tensorflow/datasets/pull/1570","state":"OPEN","mergedBy":null,"createdAt":"2020-03-04T14:25:28Z","number":1570,"changedFiles":2,"additions":42,"deletions":13,"baseRepository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzgzNDQ4ODc1","title":"Added pytype in tfds/core/dataset_info.py patch-3","url":"https://github.com/tensorflow/datasets/pull/1569","state":"OPEN","mergedBy":null,"createdAt":"2020-03-04T09:59:07Z","number":1569,"changedFiles":1,"additions":77,"deletions":59,"baseRepository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzgyNDY0ODAy","title":"Added pytype in tfds/core patch-2","url":"https://github.com/tensorflow/datasets/pull/1554","state":"OPEN","mergedBy":null,"createdAt":"2020-03-02T15:58:16Z","number":1554,"changedFiles":2,"additions":223,"deletions":106,"baseRepository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzgyMTg2NjQx","title":"Added pytype in tfds/core patch-1","url":"https://github.com/tensorflow/datasets/pull/1550","state":"OPEN","mergedBy":null,"createdAt":"2020-03-02T05:42:03Z","number":1550,"changedFiles":2,"additions":42,"deletions":8,"baseRepository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzgxODU4Njg5","title":"Specifying about representative_datasets in TfLiteConverter","url":"https://github.com/tensorflow/tensorflow/pull/37192","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-02-29T14:28:26Z","number":37192,"changedFiles":2,"additions":4,"deletions":2,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzgxODU1NDYy","title":"Corrected the default value for name param in Nadam","url":"https://github.com/tensorflow/tensorflow/pull/37188","state":"CLOSED","mergedBy":null,"createdAt":"2020-02-29T14:03:05Z","number":37188,"changedFiles":1,"additions":1,"deletions":1,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzgxODE4Njg0","title":"Added code to insert tfds dir into sys.path","url":"https://github.com/tensorflow/datasets/pull/1545","state":"CLOSED","mergedBy":null,"createdAt":"2020-02-29T08:38:18Z","number":1545,"changedFiles":1,"additions":3,"deletions":0,"baseRepository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzc5MDE2MTEw","title":"Modified metric_utils.py to fix conflicts with floatx and float32","url":"https://github.com/tensorflow/tensorflow/pull/37020","state":"CLOSED","mergedBy":null,"createdAt":"2020-02-24T14:20:44Z","number":37020,"changedFiles":1,"additions":1,"deletions":1,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzc4OTUyODQ0","title":"Modified doc for specifically mentioning about saving optimizer","url":"https://github.com/tensorflow/docs/pull/1472","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/47575114?u=14981fca962fe7d59cb7ab71cc53773edab7f494&v=4","url":"https://github.com/TensorFlow-Docs-Copybara","login":"TensorFlow-Docs-Copybara"},"createdAt":"2020-02-24T11:59:40Z","number":1472,"changedFiles":1,"additions":8,"deletions":8,"baseRepository":{"name":"docs","url":"https://github.com/tensorflow/docs","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzc4OTAxMDU0","title":"Modified reduce_variance for extra optimization","url":"https://github.com/tensorflow/tensorflow/pull/37014","state":"OPEN","mergedBy":null,"createdAt":"2020-02-24T09:59:46Z","number":37014,"changedFiles":1,"additions":9,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzc4NzExNjM2","title":"Added doc for all application models for decode_prediction() and preprocess_input()","url":"https://github.com/tensorflow/tensorflow/pull/36995","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-02-23T14:27:24Z","number":36995,"changedFiles":8,"additions":189,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzc4NzEwMjM0","title":"Added doc in inception_resnet_v2 for decode_prediction() and preprocess_input()","url":"https://github.com/tensorflow/tensorflow/pull/36994","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-02-23T14:14:15Z","number":36994,"changedFiles":1,"additions":25,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzc4NzA5MTM2","title":"Added doc in DenseNet for decode_prediction() and preprocess_input()","url":"https://github.com/tensorflow/tensorflow/pull/36993","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-02-23T14:05:28Z","number":36993,"changedFiles":1,"additions":25,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzc4NzA4NDAy","title":"Added doc in MobileNet for decode_predictions() and preprocess_input()","url":"https://github.com/tensorflow/tensorflow/pull/36992","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-02-23T13:57:39Z","number":36992,"changedFiles":1,"additions":25,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzc4NzAxMDM3","title":"Added example of from_tensors and from_tensor_slices","url":"https://github.com/tensorflow/tensorflow/pull/36989","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-02-23T12:38:54Z","number":36989,"changedFiles":1,"additions":10,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzc4MjA1MzIx","title":"Added doc corresponding to decode_prediction() and preprocess_input()","url":"https://github.com/tensorflow/tensorflow/pull/36951","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-02-21T10:14:44Z","number":36951,"changedFiles":1,"additions":22,"deletions":2,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzc4MTM3MjQ5","title":"Modifying keras.py to print the KeyError with new line \\n","url":"https://github.com/tensorflow/estimator/pull/51","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars0.githubusercontent.com/u/323199?v=4","url":"https://github.com/mihaimaruseac","login":"mihaimaruseac"},"createdAt":"2020-02-21T07:08:28Z","number":51,"changedFiles":2,"additions":20,"deletions":3,"baseRepository":{"name":"estimator","url":"https://github.com/tensorflow/estimator","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzcxMTc1NDAz","title":"Fix formatting of ops_version.md","url":"https://github.com/tensorflow/tensorflow/pull/36479","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-02-05T04:20:12Z","number":36479,"changedFiles":1,"additions":3,"deletions":2,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzY5NTEwMjYz","title":"Gradient Doc Changed for v2","url":"https://github.com/tensorflow/tensorflow/pull/36365","state":"CLOSED","mergedBy":null,"createdAt":"2020-01-31T10:21:07Z","number":36365,"changedFiles":1,"additions":16,"deletions":2,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzY5NDg1MTI3","title":"embedding_lookup_sparse divide by zero fixed","url":"https://github.com/tensorflow/tensorflow/pull/36364","state":"OPEN","mergedBy":null,"createdAt":"2020-01-31T09:20:35Z","number":36364,"changedFiles":2,"additions":25,"deletions":2,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzY3MzEwNjA1","title":"Python version corrected in doc","url":"https://github.com/tensorflow/docs/pull/1435","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/47575114?u=14981fca962fe7d59cb7ab71cc53773edab7f494&v=4","url":"https://github.com/TensorFlow-Docs-Copybara","login":"TensorFlow-Docs-Copybara"},"createdAt":"2020-01-27T04:50:23Z","number":1435,"changedFiles":2,"additions":2,"deletions":1,"baseRepository":{"name":"docs","url":"https://github.com/tensorflow/docs","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzY3MTMyNzEx","title":"Gradient doc changed to accurately show the returned params","url":"https://github.com/tensorflow/tensorflow/pull/36206","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-01-25T16:49:54Z","number":36206,"changedFiles":1,"additions":16,"deletions":2,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzY3MTI2MDk0","title":"Quantile Huber Loss to predict Specific Quantile Value","url":"https://github.com/tensorflow/tensorflow/pull/36204","state":"CLOSED","mergedBy":null,"createdAt":"2020-01-25T15:24:48Z","number":36204,"changedFiles":2,"additions":161,"deletions":1,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzYyOTY0NTc3","title":"CUDA and requirements","url":"https://github.com/NVlabs/stylegan/pull/11","state":"OPEN","mergedBy":null,"createdAt":"2020-01-15T05:32:01Z","number":11,"changedFiles":2,"additions":127,"deletions":0,"baseRepository":{"name":"stylegan","url":"https://github.com/NVlabs/stylegan","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/2695301?v=4","login":"NVlabs","url":"https://github.com/NVlabs"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzI0OTk2OTQ0","title":"PR4","url":"https://github.com/nischaypandey/HF1/pull/4","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars0.githubusercontent.com/u/26094362?u=d320e78775be2cd716b0e941a49aef1f8859563c&v=4","url":"https://github.com/nischaypandey","login":"nischaypandey"},"createdAt":"2019-10-06T03:33:23Z","number":4,"changedFiles":1,"additions":2,"deletions":0,"baseRepository":{"name":"HF1","url":"https://github.com/nischaypandey/HF1","owner":{"avatarUrl":"https://avatars0.githubusercontent.com/u/26094362?u=d320e78775be2cd716b0e941a49aef1f8859563c&v=4","login":"nischaypandey","url":"https://github.com/nischaypandey"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzI0OTk2ODgx","title":"PR3","url":"https://github.com/nischaypandey/HF1/pull/3","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars0.githubusercontent.com/u/26094362?u=d320e78775be2cd716b0e941a49aef1f8859563c&v=4","url":"https://github.com/nischaypandey","login":"nischaypandey"},"createdAt":"2019-10-06T03:31:54Z","number":3,"changedFiles":1,"additions":2,"deletions":0,"baseRepository":{"name":"HF1","url":"https://github.com/nischaypandey/HF1","owner":{"avatarUrl":"https://avatars0.githubusercontent.com/u/26094362?u=d320e78775be2cd716b0e941a49aef1f8859563c&v=4","login":"nischaypandey","url":"https://github.com/nischaypandey"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzI0OTk2Nzkw","title":"PR2","url":"https://github.com/nischaypandey/HF1/pull/2","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars0.githubusercontent.com/u/26094362?u=d320e78775be2cd716b0e941a49aef1f8859563c&v=4","url":"https://github.com/nischaypandey","login":"nischaypandey"},"createdAt":"2019-10-06T03:30:15Z","number":2,"changedFiles":1,"additions":2,"deletions":0,"baseRepository":{"name":"HF1","url":"https://github.com/nischaypandey/HF1","owner":{"avatarUrl":"https://avatars0.githubusercontent.com/u/26094362?u=d320e78775be2cd716b0e941a49aef1f8859563c&v=4","login":"nischaypandey","url":"https://github.com/nischaypandey"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzI0OTk2NzI1","title":"PR1","url":"https://github.com/nischaypandey/HF1/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars0.githubusercontent.com/u/26094362?u=d320e78775be2cd716b0e941a49aef1f8859563c&v=4","url":"https://github.com/nischaypandey","login":"nischaypandey"},"createdAt":"2019-10-06T03:28:47Z","number":1,"changedFiles":1,"additions":2,"deletions":0,"baseRepository":{"name":"HF1","url":"https://github.com/nischaypandey/HF1","owner":{"avatarUrl":"https://avatars0.githubusercontent.com/u/26094362?u=d320e78775be2cd716b0e941a49aef1f8859563c&v=4","login":"nischaypandey","url":"https://github.com/nischaypandey"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzE5NTg0OTgz","title":"JSON Related errors are resolved and json files are compatible to json in python","url":"https://github.com/DataTurks-Engg/Entity-Recognition-In-Resumes-SpaCy/pull/17","state":"OPEN","mergedBy":null,"createdAt":"2019-09-20T07:00:46Z","number":17,"changedFiles":6742,"additions":7423541,"deletions":228,"baseRepository":{"name":"Entity-Recognition-In-Resumes-SpaCy","url":"https://github.com/DataTurks-Engg/Entity-Recognition-In-Resumes-SpaCy","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/39724935?v=4","login":"DataTurks-Engg","url":"https://github.com/DataTurks-Engg"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzE4NjQyMzk5","title":"Added mean_absolute_percentage_error in metrics fixes #10708","url":"https://github.com/scikit-learn/scikit-learn/pull/15007","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars0.githubusercontent.com/u/630936?u=9471e1bd1f6a8b358928068faae2cbc834dfe0b4&v=4","url":"https://github.com/rth","login":"rth"},"createdAt":"2019-09-18T06:03:48Z","number":15007,"changedFiles":10,"additions":207,"deletions":46,"baseRepository":{"name":"scikit-learn","url":"https://github.com/scikit-learn/scikit-learn","owner":{"avatarUrl":"https://avatars2.githubusercontent.com/u/365630?v=4","login":"scikit-learn","url":"https://github.com/scikit-learn"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzE3MDI2OTg3","title":"Quantile Huber Loss to predict Specific Quantile Value","url":"https://github.com/tensorflow/tensorflow/pull/32473","state":"CLOSED","mergedBy":null,"createdAt":"2019-09-12T18:11:26Z","number":32473,"changedFiles":0,"additions":0,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzE3MDI0NjAx","title":"Quantile Huber Loss to predict Specific Quantile Value","url":"https://github.com/tensorflow/tensorflow/pull/32472","state":"CLOSED","mergedBy":null,"createdAt":"2019-09-12T18:04:44Z","number":32472,"changedFiles":4529,"additions":260078,"deletions":126363,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzE2NzQyNjUy","title":"Quantile Huber Loss to predict Specific Quantile Value","url":"https://github.com/tensorflow/tensorflow/pull/32455","state":"CLOSED","mergedBy":null,"createdAt":"2019-09-12T06:00:10Z","number":32455,"changedFiles":2,"additions":170,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzA1OTM4NTE2","title":"Closing bracket was missing","url":"https://github.com/netrack/keras-metrics/pull/43","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars1.githubusercontent.com/u/1778407?u=4c464d8a8ba9b291717b85f1eb37b7db2873200b&v=4","url":"https://github.com/ybubnov","login":"ybubnov"},"createdAt":"2019-08-09T10:48:13Z","number":43,"changedFiles":1,"additions":1,"deletions":1,"baseRepository":{"name":"keras-metrics","url":"https://github.com/netrack/keras-metrics","owner":{"avatarUrl":"https://avatars2.githubusercontent.com/u/10380772?v=4","login":"netrack","url":"https://github.com/netrack"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzAzNDk3NjY0","title":"Issue Fix #6280","url":"https://github.com/fossasia/open-event-server/pull/6289","state":"CLOSED","mergedBy":null,"createdAt":"2019-08-01T18:13:43Z","number":6289,"changedFiles":1,"additions":6,"deletions":0,"baseRepository":{"name":"open-event-server","url":"https://github.com/fossasia/open-event-server","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/6295529?v=4","login":"fossasia","url":"https://github.com/fossasia"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzAzNDcwNzYz","title":"check integration default check","url":"https://github.com/fossasia/open-event-server/pull/6288","state":"CLOSED","mergedBy":null,"createdAt":"2019-08-01T16:51:30Z","number":6288,"changedFiles":2,"additions":2,"deletions":1,"baseRepository":{"name":"open-event-server","url":"https://github.com/fossasia/open-event-server","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/6295529?v=4","login":"fossasia","url":"https://github.com/fossasia"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzAxNDAwNjgx","title":"Replaced Depricated tf.contrib.deprecated.scalar_summary with tf.compat.v1.summary.scalar","url":"https://github.com/google/mentornet/pull/8","state":"CLOSED","mergedBy":null,"createdAt":"2019-07-26T05:29:39Z","number":8,"changedFiles":2,"additions":3,"deletions":2,"baseRepository":{"name":"mentornet","url":"https://github.com/google/mentornet","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/1342004?v=4","login":"google","url":"https://github.com/google"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzAxMzk5NTg5","title":"Comments","url":"https://github.com/ashutosh1919/mentornet/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","url":"https://github.com/ashutosh1919","login":"ashutosh1919"},"createdAt":"2019-07-26T05:23:10Z","number":1,"changedFiles":1,"additions":1,"deletions":0,"baseRepository":{"name":"mentornet","url":"https://github.com/ashutosh1919/mentornet","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","login":"ashutosh1919","url":"https://github.com/ashutosh1919"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzAxMTE4NDY2","title":"Removed Unnecessary imports","url":"https://github.com/C-Aniruddh/DeepConversation/pull/1","state":"OPEN","mergedBy":null,"createdAt":"2019-07-25T12:21:04Z","number":1,"changedFiles":1,"additions":0,"deletions":2,"baseRepository":{"name":"DeepConversation","url":"https://github.com/C-Aniruddh/DeepConversation","owner":{"avatarUrl":"https://avatars0.githubusercontent.com/u/6713004?u=c2e7a60fa5f385f22dbff72f505da269468d6395&v=4","login":"C-Aniruddh","url":"https://github.com/C-Aniruddh"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzAxMDg1Mzc5","title":"Removed Unnecessary import","url":"https://github.com/facebook/FAI-PEP/pull/326","state":"CLOSED","mergedBy":null,"createdAt":"2019-07-25T10:42:49Z","number":326,"changedFiles":1,"additions":0,"deletions":1,"baseRepository":{"name":"FAI-PEP","url":"https://github.com/facebook/FAI-PEP","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/69631?v=4","login":"facebook","url":"https://github.com/facebook"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzAxMDY1ODY4","title":"Replaced Depricated tf.contrib.deprecated.scalar_summary with tf.compat.v1.summary.scalar","url":"https://github.com/google/mentornet/pull/7","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/13424689?u=5a623978c86d2ffb6f5c46764cf57e71c5ced884&v=4","url":"https://github.com/roadjiang","login":"roadjiang"},"createdAt":"2019-07-25T09:48:38Z","number":7,"changedFiles":2,"additions":3,"deletions":2,"baseRepository":{"name":"mentornet","url":"https://github.com/google/mentornet","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/1342004?v=4","login":"google","url":"https://github.com/google"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzAxMDA1NDA3","title":"Replaced Depricated tf.contrib.deprecated.scalar_summary with tf.compat.v1.summary.scalar","url":"https://github.com/google/mentornet/pull/6","state":"CLOSED","mergedBy":null,"createdAt":"2019-07-25T06:48:42Z","number":6,"changedFiles":2,"additions":2,"deletions":2,"baseRepository":{"name":"mentornet","url":"https://github.com/google/mentornet","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/1342004?v=4","login":"google","url":"https://github.com/google"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mjk5NjIwNDQx","title":"Quantile Huber Loss to predict Specific Quantile Value","url":"https://github.com/keras-team/keras/pull/13129","state":"CLOSED","mergedBy":null,"createdAt":"2019-07-21T08:44:09Z","number":13129,"changedFiles":7,"additions":133,"deletions":70,"baseRepository":{"name":"keras","url":"https://github.com/keras-team/keras","owner":{"avatarUrl":"https://avatars0.githubusercontent.com/u/34455048?v=4","login":"keras-team","url":"https://github.com/keras-team"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mjk3MzIzMjcz","title":"Huber Loss Function for both kind of behavior. ","url":"https://github.com/keras-team/keras/pull/13104","state":"CLOSED","mergedBy":null,"createdAt":"2019-07-13T15:14:42Z","number":13104,"changedFiles":2,"additions":22,"deletions":0,"baseRepository":{"name":"keras","url":"https://github.com/keras-team/keras","owner":{"avatarUrl":"https://avatars0.githubusercontent.com/u/34455048?v=4","login":"keras-team","url":"https://github.com/keras-team"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mjg4NTMyMzQz","title":"RC Details","url":"https://github.com/abhinavhinger12/ala/pull/2","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","url":"https://github.com/ashutosh1919","login":"ashutosh1919"},"createdAt":"2019-06-15T05:19:37Z","number":2,"changedFiles":3,"additions":555,"deletions":0,"baseRepository":{"name":"ala","url":"https://github.com/abhinavhinger12/ala","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/4638215?u=9c8d81f075a4206c9ce6386e7a97babce38c1037&v=4","login":"abhinavhinger12","url":"https://github.com/abhinavhinger12"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MjQzMzQxOTg5","title":"Face Verification and Recognition","url":"https://github.com/trekhleb/homemade-machine-learning/pull/14","state":"OPEN","mergedBy":null,"createdAt":"2019-01-09T13:56:53Z","number":14,"changedFiles":268,"additions":1419,"deletions":1,"baseRepository":{"name":"homemade-machine-learning","url":"https://github.com/trekhleb/homemade-machine-learning","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/3000285?u=1e62782f227030b78b7aa78cbbcab5f8a24e658a&v=4","login":"trekhleb","url":"https://github.com/trekhleb"}}}],"open":25,"closed":24,"merged":51,"totalCount":100}
+{
+  "closed": 11,
+  "data": [
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDQ3ODQ3Mzk2",
+      "title": "Rake setup",
+      "url": "https://github.com/Turing-Projects-melatran/rails_engine/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-07-12T03:59:13Z",
+      "number": 1,
+      "changedFiles": 33,
+      "additions": 489,
+      "deletions": 76,
+      "baseRepository": {
+        "name": "rails_engine",
+        "url": "https://github.com/Turing-Projects-melatran/rails_engine",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDQ2ODQ1ODM4",
+      "title": "Friendships",
+      "url": "https://github.com/foleymichelle9/brownfield-of-dreams/pull/30",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/55991172?u=b40513eb9214bdc3d7093e753ac217b9f56f560b&v=4",
+        "url": "https://github.com/foleymichelle9",
+        "login": "foleymichelle9"
+      },
+      "createdAt": "2020-07-09T13:01:51Z",
+      "number": 30,
+      "changedFiles": 27,
+      "additions": 259,
+      "deletions": 16,
+      "baseRepository": {
+        "name": "brownfield-of-dreams",
+        "url": "https://github.com/foleymichelle9/brownfield-of-dreams",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/55991172?u=b40513eb9214bdc3d7093e753ac217b9f56f560b&v=4",
+          "login": "foleymichelle9",
+          "url": "https://github.com/foleymichelle9"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDQ2Mzc0MTQ1",
+      "title": "Bookmarks",
+      "url": "https://github.com/foleymichelle9/brownfield-of-dreams/pull/27",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/55991172?u=b40513eb9214bdc3d7093e753ac217b9f56f560b&v=4",
+        "url": "https://github.com/foleymichelle9",
+        "login": "foleymichelle9"
+      },
+      "createdAt": "2020-07-08T17:06:50Z",
+      "number": 27,
+      "changedFiles": 7,
+      "additions": 69,
+      "deletions": 5,
+      "baseRepository": {
+        "name": "brownfield-of-dreams",
+        "url": "https://github.com/foleymichelle9/brownfield-of-dreams",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/55991172?u=b40513eb9214bdc3d7093e753ac217b9f56f560b&v=4",
+          "login": "foleymichelle9",
+          "url": "https://github.com/foleymichelle9"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDQ1ODg5Nzk0",
+      "title": "Oauth refactor",
+      "url": "https://github.com/foleymichelle9/brownfield-of-dreams/pull/26",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/55991172?u=b40513eb9214bdc3d7093e753ac217b9f56f560b&v=4",
+        "url": "https://github.com/foleymichelle9",
+        "login": "foleymichelle9"
+      },
+      "createdAt": "2020-07-08T03:11:31Z",
+      "number": 26,
+      "changedFiles": 7,
+      "additions": 33,
+      "deletions": 56,
+      "baseRepository": {
+        "name": "brownfield-of-dreams",
+        "url": "https://github.com/foleymichelle9/brownfield-of-dreams",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/55991172?u=b40513eb9214bdc3d7093e753ac217b9f56f560b&v=4",
+          "login": "foleymichelle9",
+          "url": "https://github.com/foleymichelle9"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDQ1NzU1NTky",
+      "title": "Oauth",
+      "url": "https://github.com/foleymichelle9/brownfield-of-dreams/pull/25",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-07-07T23:15:50Z",
+      "number": 25,
+      "changedFiles": 11,
+      "additions": 46,
+      "deletions": 31,
+      "baseRepository": {
+        "name": "brownfield-of-dreams",
+        "url": "https://github.com/foleymichelle9/brownfield-of-dreams",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/55991172?u=b40513eb9214bdc3d7093e753ac217b9f56f560b&v=4",
+          "login": "foleymichelle9",
+          "url": "https://github.com/foleymichelle9"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDQ1MDUyMzE1",
+      "title": "New tutorial",
+      "url": "https://github.com/foleymichelle9/brownfield-of-dreams/pull/21",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/55991172?u=b40513eb9214bdc3d7093e753ac217b9f56f560b&v=4",
+        "url": "https://github.com/foleymichelle9",
+        "login": "foleymichelle9"
+      },
+      "createdAt": "2020-07-06T23:30:32Z",
+      "number": 21,
+      "changedFiles": 9,
+      "additions": 53,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "brownfield-of-dreams",
+        "url": "https://github.com/foleymichelle9/brownfield-of-dreams",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/55991172?u=b40513eb9214bdc3d7093e753ac217b9f56f560b&v=4",
+          "login": "foleymichelle9",
+          "url": "https://github.com/foleymichelle9"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDQ0MzQxMjI4",
+      "title": "User following",
+      "url": "https://github.com/foleymichelle9/brownfield-of-dreams/pull/20",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/55991172?u=b40513eb9214bdc3d7093e753ac217b9f56f560b&v=4",
+        "url": "https://github.com/foleymichelle9",
+        "login": "foleymichelle9"
+      },
+      "createdAt": "2020-07-05T00:17:00Z",
+      "number": 20,
+      "changedFiles": 10,
+      "additions": 173,
+      "deletions": 31,
+      "baseRepository": {
+        "name": "brownfield-of-dreams",
+        "url": "https://github.com/foleymichelle9/brownfield-of-dreams",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/55991172?u=b40513eb9214bdc3d7093e753ac217b9f56f560b&v=4",
+          "login": "foleymichelle9",
+          "url": "https://github.com/foleymichelle9"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDQyMzE2OTUy",
+      "title": "Redid the implementation of the secure api file",
+      "url": "https://github.com/turingschool-examples/watch-and-learn/pull/235",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-06-30T21:54:42Z",
+      "number": 235,
+      "changedFiles": 14,
+      "additions": 89,
+      "deletions": 170,
+      "baseRepository": {
+        "name": "watch-and-learn",
+        "url": "https://github.com/turingschool-examples/watch-and-learn",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/8518346?v=4",
+          "login": "turingschool-examples",
+          "url": "https://github.com/turingschool-examples"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDMxNDE3OTE4",
+      "title": "Melanie Tran",
+      "url": "https://github.com/turingschool-examples/final_assessment_be_2003/pull/7",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2020-06-08T21:56:10Z",
+      "number": 7,
+      "changedFiles": 35,
+      "additions": 613,
+      "deletions": 8,
+      "baseRepository": {
+        "name": "final_assessment_be_2003",
+        "url": "https://github.com/turingschool-examples/final_assessment_be_2003",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/8518346?v=4",
+          "login": "turingschool-examples",
+          "url": "https://github.com/turingschool-examples"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDI4MTE4MjQ5",
+      "title": "Edits",
+      "url": "https://github.com/Rostammahabadi/monster_shop_2003/pull/39",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/60719241?u=8ed1a265c3ff80cbf6b97827fd75f439f6cd9160&v=4",
+        "url": "https://github.com/Rostammahabadi",
+        "login": "Rostammahabadi"
+      },
+      "createdAt": "2020-06-04T22:14:40Z",
+      "number": 39,
+      "changedFiles": 10,
+      "additions": 59,
+      "deletions": 81,
+      "baseRepository": {
+        "name": "monster_shop_2003",
+        "url": "https://github.com/Rostammahabadi/monster_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/60719241?u=8ed1a265c3ff80cbf6b97827fd75f439f6cd9160&v=4",
+          "login": "Rostammahabadi",
+          "url": "https://github.com/Rostammahabadi"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDI4MDA4MzIz",
+      "title": "Userstory 53",
+      "url": "https://github.com/Rostammahabadi/monster_shop_2003/pull/36",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/60719241?u=8ed1a265c3ff80cbf6b97827fd75f439f6cd9160&v=4",
+        "url": "https://github.com/Rostammahabadi",
+        "login": "Rostammahabadi"
+      },
+      "createdAt": "2020-06-04T18:15:45Z",
+      "number": 36,
+      "changedFiles": 10,
+      "additions": 138,
+      "deletions": 7,
+      "baseRepository": {
+        "name": "monster_shop_2003",
+        "url": "https://github.com/Rostammahabadi/monster_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/60719241?u=8ed1a265c3ff80cbf6b97827fd75f439f6cd9160&v=4",
+          "login": "Rostammahabadi",
+          "url": "https://github.com/Rostammahabadi"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDI3NjA4ODQ1",
+      "title": "Userstory 50&51",
+      "url": "https://github.com/Rostammahabadi/monster_shop_2003/pull/35",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars1.githubusercontent.com/u/57816551?u=26d8235a96fcbda5bb98d556d10296c0b15f516c&v=4",
+        "url": "https://github.com/Joshua-Tukman",
+        "login": "Joshua-Tukman"
+      },
+      "createdAt": "2020-06-04T06:03:01Z",
+      "number": 35,
+      "changedFiles": 11,
+      "additions": 192,
+      "deletions": 12,
+      "baseRepository": {
+        "name": "monster_shop_2003",
+        "url": "https://github.com/Rostammahabadi/monster_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/60719241?u=8ed1a265c3ff80cbf6b97827fd75f439f6cd9160&v=4",
+          "login": "Rostammahabadi",
+          "url": "https://github.com/Rostammahabadi"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDI2ODY0MDc0",
+      "title": "Userstory 42 43",
+      "url": "https://github.com/Rostammahabadi/monster_shop_2003/pull/33",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/60719241?u=8ed1a265c3ff80cbf6b97827fd75f439f6cd9160&v=4",
+        "url": "https://github.com/Rostammahabadi",
+        "login": "Rostammahabadi"
+      },
+      "createdAt": "2020-06-02T22:35:44Z",
+      "number": 33,
+      "changedFiles": 15,
+      "additions": 340,
+      "deletions": 69,
+      "baseRepository": {
+        "name": "monster_shop_2003",
+        "url": "https://github.com/Rostammahabadi/monster_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/60719241?u=8ed1a265c3ff80cbf6b97827fd75f439f6cd9160&v=4",
+          "login": "Rostammahabadi",
+          "url": "https://github.com/Rostammahabadi"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDI2MjcyMDYz",
+      "title": "User Stories 38 and 39",
+      "url": "https://github.com/Rostammahabadi/monster_shop_2003/pull/31",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/60719241?u=8ed1a265c3ff80cbf6b97827fd75f439f6cd9160&v=4",
+        "url": "https://github.com/Rostammahabadi",
+        "login": "Rostammahabadi"
+      },
+      "createdAt": "2020-06-01T23:51:20Z",
+      "number": 31,
+      "changedFiles": 10,
+      "additions": 108,
+      "deletions": 23,
+      "baseRepository": {
+        "name": "monster_shop_2003",
+        "url": "https://github.com/Rostammahabadi/monster_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/60719241?u=8ed1a265c3ff80cbf6b97827fd75f439f6cd9160&v=4",
+          "login": "Rostammahabadi",
+          "url": "https://github.com/Rostammahabadi"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDI1NzI0NTc0",
+      "title": "User story 30",
+      "url": "https://github.com/Rostammahabadi/monster_shop_2003/pull/28",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/60719241?u=8ed1a265c3ff80cbf6b97827fd75f439f6cd9160&v=4",
+        "url": "https://github.com/Rostammahabadi",
+        "login": "Rostammahabadi"
+      },
+      "createdAt": "2020-06-01T02:58:39Z",
+      "number": 28,
+      "changedFiles": 21,
+      "additions": 222,
+      "deletions": 36,
+      "baseRepository": {
+        "name": "monster_shop_2003",
+        "url": "https://github.com/Rostammahabadi/monster_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/60719241?u=8ed1a265c3ff80cbf6b97827fd75f439f6cd9160&v=4",
+          "login": "Rostammahabadi",
+          "url": "https://github.com/Rostammahabadi"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDI1NjU5NDU4",
+      "title": "User story 29",
+      "url": "https://github.com/Rostammahabadi/monster_shop_2003/pull/26",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/60719241?u=8ed1a265c3ff80cbf6b97827fd75f439f6cd9160&v=4",
+        "url": "https://github.com/Rostammahabadi",
+        "login": "Rostammahabadi"
+      },
+      "createdAt": "2020-05-31T19:38:12Z",
+      "number": 26,
+      "changedFiles": 9,
+      "additions": 95,
+      "deletions": 31,
+      "baseRepository": {
+        "name": "monster_shop_2003",
+        "url": "https://github.com/Rostammahabadi/monster_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/60719241?u=8ed1a265c3ff80cbf6b97827fd75f439f6cd9160&v=4",
+          "login": "Rostammahabadi",
+          "url": "https://github.com/Rostammahabadi"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDI1NjQ2MzI3",
+      "title": "User story 27 28 29",
+      "url": "https://github.com/Rostammahabadi/monster_shop_2003/pull/25",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/60719241?u=8ed1a265c3ff80cbf6b97827fd75f439f6cd9160&v=4",
+        "url": "https://github.com/Rostammahabadi",
+        "login": "Rostammahabadi"
+      },
+      "createdAt": "2020-05-31T17:52:05Z",
+      "number": 25,
+      "changedFiles": 25,
+      "additions": 196,
+      "deletions": 36,
+      "baseRepository": {
+        "name": "monster_shop_2003",
+        "url": "https://github.com/Rostammahabadi/monster_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/60719241?u=8ed1a265c3ff80cbf6b97827fd75f439f6cd9160&v=4",
+          "login": "Rostammahabadi",
+          "url": "https://github.com/Rostammahabadi"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDI1MzQwMzgy",
+      "title": "User story 22",
+      "url": "https://github.com/Rostammahabadi/monster_shop_2003/pull/18",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/60719241?u=8ed1a265c3ff80cbf6b97827fd75f439f6cd9160&v=4",
+        "url": "https://github.com/Rostammahabadi",
+        "login": "Rostammahabadi"
+      },
+      "createdAt": "2020-05-29T21:31:10Z",
+      "number": 18,
+      "changedFiles": 1,
+      "additions": 31,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "monster_shop_2003",
+        "url": "https://github.com/Rostammahabadi/monster_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/60719241?u=8ed1a265c3ff80cbf6b97827fd75f439f6cd9160&v=4",
+          "login": "Rostammahabadi",
+          "url": "https://github.com/Rostammahabadi"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDI1MzM5NTk0",
+      "title": "User story 18",
+      "url": "https://github.com/Rostammahabadi/monster_shop_2003/pull/17",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/60719241?u=8ed1a265c3ff80cbf6b97827fd75f439f6cd9160&v=4",
+        "url": "https://github.com/Rostammahabadi",
+        "login": "Rostammahabadi"
+      },
+      "createdAt": "2020-05-29T21:30:14Z",
+      "number": 17,
+      "changedFiles": 6,
+      "additions": 144,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "monster_shop_2003",
+        "url": "https://github.com/Rostammahabadi/monster_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/60719241?u=8ed1a265c3ff80cbf6b97827fd75f439f6cd9160&v=4",
+          "login": "Rostammahabadi",
+          "url": "https://github.com/Rostammahabadi"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDI0MTczMzI1",
+      "title": "User story 14",
+      "url": "https://github.com/Rostammahabadi/monster_shop_2003/pull/7",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/60719241?u=8ed1a265c3ff80cbf6b97827fd75f439f6cd9160&v=4",
+        "url": "https://github.com/Rostammahabadi",
+        "login": "Rostammahabadi"
+      },
+      "createdAt": "2020-05-27T23:58:49Z",
+      "number": 7,
+      "changedFiles": 5,
+      "additions": 139,
+      "deletions": 56,
+      "baseRepository": {
+        "name": "monster_shop_2003",
+        "url": "https://github.com/Rostammahabadi/monster_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/60719241?u=8ed1a265c3ff80cbf6b97827fd75f439f6cd9160&v=4",
+          "login": "Rostammahabadi",
+          "url": "https://github.com/Rostammahabadi"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDI0MTczMDE1",
+      "title": "User story 13",
+      "url": "https://github.com/Rostammahabadi/monster_shop_2003/pull/6",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/60719241?u=8ed1a265c3ff80cbf6b97827fd75f439f6cd9160&v=4",
+        "url": "https://github.com/Rostammahabadi",
+        "login": "Rostammahabadi"
+      },
+      "createdAt": "2020-05-27T23:57:43Z",
+      "number": 6,
+      "changedFiles": 16,
+      "additions": 217,
+      "deletions": 66,
+      "baseRepository": {
+        "name": "monster_shop_2003",
+        "url": "https://github.com/Rostammahabadi/monster_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/60719241?u=8ed1a265c3ff80cbf6b97827fd75f439f6cd9160&v=4",
+          "login": "Rostammahabadi",
+          "url": "https://github.com/Rostammahabadi"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDI0MTYyMTQ2",
+      "title": "User story 14",
+      "url": "https://github.com/Rostammahabadi/monster_shop_2003/pull/5",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-05-27T23:20:48Z",
+      "number": 5,
+      "changedFiles": 18,
+      "additions": 321,
+      "deletions": 5,
+      "baseRepository": {
+        "name": "monster_shop_2003",
+        "url": "https://github.com/Rostammahabadi/monster_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/60719241?u=8ed1a265c3ff80cbf6b97827fd75f439f6cd9160&v=4",
+          "login": "Rostammahabadi",
+          "url": "https://github.com/Rostammahabadi"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDI0MDc4MDcx",
+      "title": "User Story 12",
+      "url": "https://github.com/Rostammahabadi/monster_shop_2003/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars1.githubusercontent.com/u/57816551?u=26d8235a96fcbda5bb98d556d10296c0b15f516c&v=4",
+        "url": "https://github.com/Joshua-Tukman",
+        "login": "Joshua-Tukman"
+      },
+      "createdAt": "2020-05-27T19:45:32Z",
+      "number": 3,
+      "changedFiles": 4,
+      "additions": 64,
+      "deletions": 21,
+      "baseRepository": {
+        "name": "monster_shop_2003",
+        "url": "https://github.com/Rostammahabadi/monster_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/60719241?u=8ed1a265c3ff80cbf6b97827fd75f439f6cd9160&v=4",
+          "login": "Rostammahabadi",
+          "url": "https://github.com/Rostammahabadi"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDIwOTk5Mjgx",
+      "title": "Refactor",
+      "url": "https://github.com/madhalle/adopt_dont_shop_paired/pull/25",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars2.githubusercontent.com/u/60206006?u=dc06bb4ed1e8f2c22d10ad32509584f70b22b1bf&v=4",
+        "url": "https://github.com/madhalle",
+        "login": "madhalle"
+      },
+      "createdAt": "2020-05-20T20:22:27Z",
+      "number": 25,
+      "changedFiles": 3,
+      "additions": 13,
+      "deletions": 15,
+      "baseRepository": {
+        "name": "adopt_dont_shop_paired",
+        "url": "https://github.com/madhalle/adopt_dont_shop_paired",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/60206006?u=dc06bb4ed1e8f2c22d10ad32509584f70b22b1bf&v=4",
+          "login": "madhalle",
+          "url": "https://github.com/madhalle"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDIwNDIyNjIy",
+      "title": "add end to fix error",
+      "url": "https://github.com/madhalle/adopt_dont_shop_paired/pull/22",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars2.githubusercontent.com/u/60206006?u=dc06bb4ed1e8f2c22d10ad32509584f70b22b1bf&v=4",
+        "url": "https://github.com/madhalle",
+        "login": "madhalle"
+      },
+      "createdAt": "2020-05-19T23:40:07Z",
+      "number": 22,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "adopt_dont_shop_paired",
+        "url": "https://github.com/madhalle/adopt_dont_shop_paired",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/60206006?u=dc06bb4ed1e8f2c22d10ad32509584f70b22b1bf&v=4",
+          "login": "madhalle",
+          "url": "https://github.com/madhalle"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDIwNDE1OTU5",
+      "title": "Us26 27",
+      "url": "https://github.com/madhalle/adopt_dont_shop_paired/pull/20",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars2.githubusercontent.com/u/60206006?u=dc06bb4ed1e8f2c22d10ad32509584f70b22b1bf&v=4",
+        "url": "https://github.com/madhalle",
+        "login": "madhalle"
+      },
+      "createdAt": "2020-05-19T23:21:22Z",
+      "number": 20,
+      "changedFiles": 11,
+      "additions": 108,
+      "deletions": 49,
+      "baseRepository": {
+        "name": "adopt_dont_shop_paired",
+        "url": "https://github.com/madhalle/adopt_dont_shop_paired",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/60206006?u=dc06bb4ed1e8f2c22d10ad32509584f70b22b1bf&v=4",
+          "login": "madhalle",
+          "url": "https://github.com/madhalle"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDE5ODM3NjMy",
+      "title": "Finished User Stories 20, 21, 29, 30",
+      "url": "https://github.com/madhalle/adopt_dont_shop_paired/pull/12",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars2.githubusercontent.com/u/60206006?u=dc06bb4ed1e8f2c22d10ad32509584f70b22b1bf&v=4",
+        "url": "https://github.com/madhalle",
+        "login": "madhalle"
+      },
+      "createdAt": "2020-05-19T02:25:52Z",
+      "number": 12,
+      "changedFiles": 13,
+      "additions": 249,
+      "deletions": 35,
+      "baseRepository": {
+        "name": "adopt_dont_shop_paired",
+        "url": "https://github.com/madhalle/adopt_dont_shop_paired",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/60206006?u=dc06bb4ed1e8f2c22d10ad32509584f70b22b1bf&v=4",
+          "login": "madhalle",
+          "url": "https://github.com/madhalle"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDE5NzI1NjM0",
+      "title": "US 16 Complete with favorite application functionality working",
+      "url": "https://github.com/madhalle/adopt_dont_shop_paired/pull/9",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars2.githubusercontent.com/u/60206006?u=dc06bb4ed1e8f2c22d10ad32509584f70b22b1bf&v=4",
+        "url": "https://github.com/madhalle",
+        "login": "madhalle"
+      },
+      "createdAt": "2020-05-18T20:28:34Z",
+      "number": 9,
+      "changedFiles": 13,
+      "additions": 151,
+      "deletions": 11,
+      "baseRepository": {
+        "name": "adopt_dont_shop_paired",
+        "url": "https://github.com/madhalle/adopt_dont_shop_paired",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/60206006?u=dc06bb4ed1e8f2c22d10ad32509584f70b22b1bf&v=4",
+          "login": "madhalle",
+          "url": "https://github.com/madhalle"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDE5MDUzMjAx",
+      "title": "User Stories 10, 11, 12 Complete",
+      "url": "https://github.com/madhalle/adopt_dont_shop_paired/pull/8",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars2.githubusercontent.com/u/60206006?u=dc06bb4ed1e8f2c22d10ad32509584f70b22b1bf&v=4",
+        "url": "https://github.com/madhalle",
+        "login": "madhalle"
+      },
+      "createdAt": "2020-05-17T03:06:40Z",
+      "number": 8,
+      "changedFiles": 11,
+      "additions": 217,
+      "deletions": 26,
+      "baseRepository": {
+        "name": "adopt_dont_shop_paired",
+        "url": "https://github.com/madhalle/adopt_dont_shop_paired",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/60206006?u=dc06bb4ed1e8f2c22d10ad32509584f70b22b1bf&v=4",
+          "login": "madhalle",
+          "url": "https://github.com/madhalle"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDE4ODY4MDQy",
+      "title": "Finished User Story 8 and 9",
+      "url": "https://github.com/madhalle/adopt_dont_shop_paired/pull/7",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars2.githubusercontent.com/u/60206006?u=dc06bb4ed1e8f2c22d10ad32509584f70b22b1bf&v=4",
+        "url": "https://github.com/madhalle",
+        "login": "madhalle"
+      },
+      "createdAt": "2020-05-15T22:52:28Z",
+      "number": 7,
+      "changedFiles": 13,
+      "additions": 132,
+      "deletions": 37,
+      "baseRepository": {
+        "name": "adopt_dont_shop_paired",
+        "url": "https://github.com/madhalle/adopt_dont_shop_paired",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/60206006?u=dc06bb4ed1e8f2c22d10ad32509584f70b22b1bf&v=4",
+          "login": "madhalle",
+          "url": "https://github.com/madhalle"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDE4MTU5NDEx",
+      "title": "Add image to shelter reviews",
+      "url": "https://github.com/madhalle/adopt_dont_shop_paired/pull/6",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars2.githubusercontent.com/u/60206006?u=dc06bb4ed1e8f2c22d10ad32509584f70b22b1bf&v=4",
+        "url": "https://github.com/madhalle",
+        "login": "madhalle"
+      },
+      "createdAt": "2020-05-14T17:58:36Z",
+      "number": 6,
+      "changedFiles": 7,
+      "additions": 8,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "adopt_dont_shop_paired",
+        "url": "https://github.com/madhalle/adopt_dont_shop_paired",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/60206006?u=dc06bb4ed1e8f2c22d10ad32509584f70b22b1bf&v=4",
+          "login": "madhalle",
+          "url": "https://github.com/madhalle"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDE4MTQ1MTI0",
+      "title": "Fix ambiguous tests by adding sections and withins",
+      "url": "https://github.com/madhalle/adopt_dont_shop_paired/pull/5",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars2.githubusercontent.com/u/60206006?u=dc06bb4ed1e8f2c22d10ad32509584f70b22b1bf&v=4",
+        "url": "https://github.com/madhalle",
+        "login": "madhalle"
+      },
+      "createdAt": "2020-05-14T17:29:48Z",
+      "number": 5,
+      "changedFiles": 10,
+      "additions": 39,
+      "deletions": 29,
+      "baseRepository": {
+        "name": "adopt_dont_shop_paired",
+        "url": "https://github.com/madhalle/adopt_dont_shop_paired",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/60206006?u=dc06bb4ed1e8f2c22d10ad32509584f70b22b1bf&v=4",
+          "login": "madhalle",
+          "url": "https://github.com/madhalle"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDE3NzIxMTQ5",
+      "title": "Editreview",
+      "url": "https://github.com/madhalle/adopt_dont_shop_paired/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars2.githubusercontent.com/u/60206006?u=dc06bb4ed1e8f2c22d10ad32509584f70b22b1bf&v=4",
+        "url": "https://github.com/madhalle",
+        "login": "madhalle"
+      },
+      "createdAt": "2020-05-14T03:02:40Z",
+      "number": 4,
+      "changedFiles": 21,
+      "additions": 124,
+      "deletions": 64,
+      "baseRepository": {
+        "name": "adopt_dont_shop_paired",
+        "url": "https://github.com/madhalle/adopt_dont_shop_paired",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/60206006?u=dc06bb4ed1e8f2c22d10ad32509584f70b22b1bf&v=4",
+          "login": "madhalle",
+          "url": "https://github.com/madhalle"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDE3NjA5MzEx",
+      "title": "Userstory8",
+      "url": "https://github.com/madhalle/adopt_dont_shop_paired/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars2.githubusercontent.com/u/60206006?u=dc06bb4ed1e8f2c22d10ad32509584f70b22b1bf&v=4",
+        "url": "https://github.com/madhalle",
+        "login": "madhalle"
+      },
+      "createdAt": "2020-05-13T20:58:44Z",
+      "number": 1,
+      "changedFiles": 32,
+      "additions": 287,
+      "deletions": 88,
+      "baseRepository": {
+        "name": "adopt_dont_shop_paired",
+        "url": "https://github.com/madhalle/adopt_dont_shop_paired",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/60206006?u=dc06bb4ed1e8f2c22d10ad32509584f70b22b1bf&v=4",
+          "login": "madhalle",
+          "url": "https://github.com/madhalle"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDE1NjU4OTAx",
+      "title": "Add CSS styling to webpage",
+      "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003/pull/21",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-05-10T02:35:13Z",
+      "number": 21,
+      "changedFiles": 22,
+      "additions": 285,
+      "deletions": 117,
+      "baseRepository": {
+        "name": "adopt_dont_shop_2003",
+        "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDE1NTAzNjEw",
+      "title": "Fix name issue",
+      "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003/pull/20",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-05-09T02:54:12Z",
+      "number": 20,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "adopt_dont_shop_2003",
+        "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDE1NTAzMjEy",
+      "title": "Usability",
+      "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003/pull/19",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-05-09T02:50:28Z",
+      "number": 19,
+      "changedFiles": 22,
+      "additions": 219,
+      "deletions": 57,
+      "baseRepository": {
+        "name": "adopt_dont_shop_2003",
+        "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDE1MDE2NTEx",
+      "title": "Refactor param methods to strong params",
+      "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003/pull/18",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-05-08T02:50:30Z",
+      "number": 18,
+      "changedFiles": 6,
+      "additions": 47,
+      "deletions": 57,
+      "baseRepository": {
+        "name": "adopt_dont_shop_2003",
+        "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDE1MDA2Njkz",
+      "title": "Updated tests to use before to prepare for usability tests",
+      "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003/pull/17",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-05-08T02:08:51Z",
+      "number": 17,
+      "changedFiles": 10,
+      "additions": 153,
+      "deletions": 108,
+      "baseRepository": {
+        "name": "adopt_dont_shop_2003",
+        "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDE0OTcyNzc0",
+      "title": "Delete pet",
+      "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003/pull/16",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-05-07T23:41:50Z",
+      "number": 16,
+      "changedFiles": 4,
+      "additions": 44,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "adopt_dont_shop_2003",
+        "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDE0OTY5NTc2",
+      "title": "Set default value for status to adoptable",
+      "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003/pull/15",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-05-07T23:29:32Z",
+      "number": 15,
+      "changedFiles": 2,
+      "additions": 7,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "adopt_dont_shop_2003",
+        "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDE0OTYyNDE3",
+      "title": "Created update pets for users",
+      "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003/pull/14",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-05-07T23:04:07Z",
+      "number": 14,
+      "changedFiles": 7,
+      "additions": 67,
+      "deletions": 9,
+      "baseRepository": {
+        "name": "adopt_dont_shop_2003",
+        "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDE0OTMyMTI1",
+      "title": "Create pets option for users",
+      "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003/pull/13",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-05-07T21:34:29Z",
+      "number": 13,
+      "changedFiles": 5,
+      "additions": 65,
+      "deletions": 9,
+      "baseRepository": {
+        "name": "adopt_dont_shop_2003",
+        "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDE0ODk2NDE1",
+      "title": "Created test for pet and shelter models",
+      "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003/pull/12",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-05-07T20:13:23Z",
+      "number": 12,
+      "changedFiles": 2,
+      "additions": 14,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "adopt_dont_shop_2003",
+        "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDE0ODkzNTc0",
+      "title": "Complete User Story 8",
+      "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003/pull/11",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-05-07T20:06:55Z",
+      "number": 11,
+      "changedFiles": 8,
+      "additions": 30,
+      "deletions": 8,
+      "baseRepository": {
+        "name": "adopt_dont_shop_2003",
+        "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDE0ODY2NzQy",
+      "title": "Created new shelter and pets index",
+      "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003/pull/10",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-05-07T19:06:05Z",
+      "number": 10,
+      "changedFiles": 8,
+      "additions": 61,
+      "deletions": 29,
+      "baseRepository": {
+        "name": "adopt_dont_shop_2003",
+        "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDE0NDI1OTA0",
+      "title": "Created and passed rspec for pets show",
+      "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003/pull/9",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-05-07T02:29:44Z",
+      "number": 9,
+      "changedFiles": 9,
+      "additions": 86,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "adopt_dont_shop_2003",
+        "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDE0MzkwODc3",
+      "title": "Created Pet Index",
+      "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003/pull/8",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-05-06T23:57:06Z",
+      "number": 8,
+      "changedFiles": 9,
+      "additions": 68,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "adopt_dont_shop_2003",
+        "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDE0MzY1MDY1",
+      "title": "User story 6 delete shelter",
+      "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003/pull/7",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-05-06T22:25:52Z",
+      "number": 7,
+      "changedFiles": 5,
+      "additions": 34,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "adopt_dont_shop_2003",
+        "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDE0MzU0MDA1",
+      "title": "Complete User Story 5",
+      "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003/pull/6",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-05-06T21:54:36Z",
+      "number": 6,
+      "changedFiles": 69,
+      "additions": 75,
+      "deletions": 7805,
+      "baseRepository": {
+        "name": "adopt_dont_shop_2003",
+        "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDEzODUzNjY1",
+      "title": "Edit syntax of the shelter index page",
+      "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003/pull/5",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-05-06T03:10:25Z",
+      "number": 5,
+      "changedFiles": 8,
+      "additions": 1276,
+      "deletions": 39,
+      "baseRepository": {
+        "name": "adopt_dont_shop_2003",
+        "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDEzODQzNzU4",
+      "title": "Created a welcome page",
+      "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-05-06T02:22:51Z",
+      "number": 4,
+      "changedFiles": 8,
+      "additions": 36,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "adopt_dont_shop_2003",
+        "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDEzODM5NDU4",
+      "title": "Shelters",
+      "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-05-06T02:03:03Z",
+      "number": 3,
+      "changedFiles": 9,
+      "additions": 231,
+      "deletions": 96,
+      "baseRepository": {
+        "name": "adopt_dont_shop_2003",
+        "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDEzNzg2NzQy",
+      "title": "Shelters",
+      "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-05-05T22:35:08Z",
+      "number": 2,
+      "changedFiles": 12,
+      "additions": 447,
+      "deletions": 35,
+      "baseRepository": {
+        "name": "adopt_dont_shop_2003",
+        "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDEzNzIyNzc3",
+      "title": "Finished user story 2 on shelter index",
+      "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-05-05T19:58:04Z",
+      "number": 1,
+      "changedFiles": 66,
+      "additions": 4414,
+      "deletions": 12,
+      "baseRepository": {
+        "name": "adopt_dont_shop_2003",
+        "url": "https://github.com/Turing-Projects-melatran/adopt_dont_shop_2003",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA2Mzg0NjQ5",
+      "title": "New split",
+      "url": "https://github.com/Turing-Projects-melatran/enigma/pull/14",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-04-21T01:21:14Z",
+      "number": 14,
+      "changedFiles": 1,
+      "additions": 32,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "enigma",
+        "url": "https://github.com/Turing-Projects-melatran/enigma",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA2Mzc4NzAy",
+      "title": "New split",
+      "url": "https://github.com/Turing-Projects-melatran/enigma/pull/13",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-04-21T00:58:49Z",
+      "number": 13,
+      "changedFiles": 3,
+      "additions": 28,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "enigma",
+        "url": "https://github.com/Turing-Projects-melatran/enigma",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA2MzUwMDU4",
+      "title": "Crated encrypt and decrypt methods and test",
+      "url": "https://github.com/Turing-Projects-melatran/enigma/pull/12",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-04-20T23:16:44Z",
+      "number": 12,
+      "changedFiles": 2,
+      "additions": 34,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "enigma",
+        "url": "https://github.com/Turing-Projects-melatran/enigma",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA2MzQzOTIw",
+      "title": "New split",
+      "url": "https://github.com/Turing-Projects-melatran/enigma/pull/11",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-04-20T22:55:42Z",
+      "number": 11,
+      "changedFiles": 10,
+      "additions": 143,
+      "deletions": 135,
+      "baseRepository": {
+        "name": "enigma",
+        "url": "https://github.com/Turing-Projects-melatran/enigma",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA1Njg1ODUz",
+      "title": "Fix defaults",
+      "url": "https://github.com/Turing-Projects-melatran/enigma/pull/10",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-04-19T15:46:01Z",
+      "number": 10,
+      "changedFiles": 12,
+      "additions": 79,
+      "deletions": 108,
+      "baseRepository": {
+        "name": "enigma",
+        "url": "https://github.com/Turing-Projects-melatran/enigma",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA1NjExNzY5",
+      "title": "Enigma",
+      "url": "https://github.com/Turing-Projects-melatran/enigma/pull/9",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-04-19T06:14:03Z",
+      "number": 9,
+      "changedFiles": 7,
+      "additions": 94,
+      "deletions": 46,
+      "baseRepository": {
+        "name": "enigma",
+        "url": "https://github.com/Turing-Projects-melatran/enigma",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA1NTk4NjAw",
+      "title": "Enigma",
+      "url": "https://github.com/Turing-Projects-melatran/enigma/pull/8",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-04-19T03:40:18Z",
+      "number": 8,
+      "changedFiles": 5,
+      "additions": 99,
+      "deletions": 5,
+      "baseRepository": {
+        "name": "enigma",
+        "url": "https://github.com/Turing-Projects-melatran/enigma",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA1NTAzNTI3",
+      "title": "Change variable names in merge hash to be more specific",
+      "url": "https://github.com/Turing-Projects-melatran/enigma/pull/7",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-04-18T13:59:44Z",
+      "number": 7,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "enigma",
+        "url": "https://github.com/Turing-Projects-melatran/enigma",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA1NTAzMjkz",
+      "title": "Shifts",
+      "url": "https://github.com/Turing-Projects-melatran/enigma/pull/6",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-04-18T13:57:54Z",
+      "number": 6,
+      "changedFiles": 3,
+      "additions": 53,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "enigma",
+        "url": "https://github.com/Turing-Projects-melatran/enigma",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA1NDk4MzIw",
+      "title": "Offset",
+      "url": "https://github.com/Turing-Projects-melatran/enigma/pull/5",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-04-18T13:18:51Z",
+      "number": 5,
+      "changedFiles": 2,
+      "additions": 8,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "enigma",
+        "url": "https://github.com/Turing-Projects-melatran/enigma",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA1NDk4MjM4",
+      "title": "Delete unused variable",
+      "url": "https://github.com/Turing-Projects-melatran/enigma/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-04-18T13:18:10Z",
+      "number": 4,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "enigma",
+        "url": "https://github.com/Turing-Projects-melatran/enigma",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA1NDk1NTgx",
+      "title": "Keys",
+      "url": "https://github.com/Turing-Projects-melatran/enigma/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-04-18T12:56:17Z",
+      "number": 3,
+      "changedFiles": 3,
+      "additions": 31,
+      "deletions": 17,
+      "baseRepository": {
+        "name": "enigma",
+        "url": "https://github.com/Turing-Projects-melatran/enigma",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA1NDQzNTYx",
+      "title": "Offset",
+      "url": "https://github.com/Turing-Projects-melatran/enigma/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-04-18T04:39:35Z",
+      "number": 2,
+      "changedFiles": 8,
+      "additions": 121,
+      "deletions": 7,
+      "baseRepository": {
+        "name": "enigma",
+        "url": "https://github.com/Turing-Projects-melatran/enigma",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA1MjQ5MzU0",
+      "title": "Created Keys Class and Test and fixed syntax of test file name",
+      "url": "https://github.com/Turing-Projects-melatran/enigma/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-04-17T17:16:51Z",
+      "number": 1,
+      "changedFiles": 4,
+      "additions": 11,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "enigma",
+        "url": "https://github.com/Turing-Projects-melatran/enigma",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA0MDE0NjQx",
+      "title": "Dev branch",
+      "url": "https://github.com/Turing-Projects-melatran/futbol/pull/28",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars1.githubusercontent.com/u/60679295?u=a436dcf8e25aef8c931ce2226aa511ff5a00008a&v=4",
+        "url": "https://github.com/Gallup93",
+        "login": "Gallup93"
+      },
+      "createdAt": "2020-04-15T22:11:42Z",
+      "number": 28,
+      "changedFiles": 3,
+      "additions": 105,
+      "deletions": 59,
+      "baseRepository": {
+        "name": "futbol",
+        "url": "https://github.com/Turing-Projects-melatran/futbol",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA0MDE0NTM5",
+      "title": "Dev branch",
+      "url": "https://github.com/turingschool-examples/futbol/pull/217",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-04-15T22:11:24Z",
+      "number": 217,
+      "changedFiles": 26,
+      "additions": 1380,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "futbol",
+        "url": "https://github.com/turingschool-examples/futbol",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/8518346?v=4",
+          "login": "turingschool-examples",
+          "url": "https://github.com/turingschool-examples"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA0MDA3NTU0",
+      "title": "Refactor code",
+      "url": "https://github.com/Turing-Projects-melatran/futbol/pull/25",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/58635768?u=ebc3d1245b1ba57f08f002e6b10b67585ade8633&v=4",
+        "url": "https://github.com/JPuchalla",
+        "login": "JPuchalla"
+      },
+      "createdAt": "2020-04-15T21:52:05Z",
+      "number": 25,
+      "changedFiles": 1,
+      "additions": 8,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "futbol",
+        "url": "https://github.com/Turing-Projects-melatran/futbol",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA0MDAwMzcx",
+      "title": "Refactor2 mt",
+      "url": "https://github.com/Turing-Projects-melatran/futbol/pull/23",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/58635768?u=ebc3d1245b1ba57f08f002e6b10b67585ade8633&v=4",
+        "url": "https://github.com/JPuchalla",
+        "login": "JPuchalla"
+      },
+      "createdAt": "2020-04-15T21:32:53Z",
+      "number": 23,
+      "changedFiles": 6,
+      "additions": 102,
+      "deletions": 81,
+      "baseRepository": {
+        "name": "futbol",
+        "url": "https://github.com/Turing-Projects-melatran/futbol",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDAyNDM3NTc2",
+      "title": "Teamstats",
+      "url": "https://github.com/Turing-Projects-melatran/futbol/pull/17",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars1.githubusercontent.com/u/60679295?u=a436dcf8e25aef8c931ce2226aa511ff5a00008a&v=4",
+        "url": "https://github.com/Gallup93",
+        "login": "Gallup93"
+      },
+      "createdAt": "2020-04-13T02:02:42Z",
+      "number": 17,
+      "changedFiles": 12,
+      "additions": 277,
+      "deletions": 310,
+      "baseRepository": {
+        "name": "futbol",
+        "url": "https://github.com/Turing-Projects-melatran/futbol",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDAyMjczNDYw",
+      "title": "Updated fixtures",
+      "url": "https://github.com/Turing-Projects-melatran/futbol/pull/14",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-04-12T01:55:13Z",
+      "number": 14,
+      "changedFiles": 12,
+      "additions": 193,
+      "deletions": 290,
+      "baseRepository": {
+        "name": "futbol",
+        "url": "https://github.com/Turing-Projects-melatran/futbol",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDAyMjczMTEy",
+      "title": "Updated fixtures",
+      "url": "https://github.com/turingschool-examples/futbol/pull/195",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-04-12T01:50:54Z",
+      "number": 195,
+      "changedFiles": 24,
+      "additions": 918,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "futbol",
+        "url": "https://github.com/turingschool-examples/futbol",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/8518346?v=4",
+          "login": "turingschool-examples",
+          "url": "https://github.com/turingschool-examples"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDAwOTk5MzUz",
+      "title": "Team collection",
+      "url": "https://github.com/Turing-Projects-melatran/futbol/pull/10",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars1.githubusercontent.com/u/60679295?u=a436dcf8e25aef8c931ce2226aa511ff5a00008a&v=4",
+        "url": "https://github.com/Gallup93",
+        "login": "Gallup93"
+      },
+      "createdAt": "2020-04-08T18:09:05Z",
+      "number": 10,
+      "changedFiles": 5,
+      "additions": 56,
+      "deletions": 11,
+      "baseRepository": {
+        "name": "futbol",
+        "url": "https://github.com/Turing-Projects-melatran/futbol",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDAwOTk2MTA3",
+      "title": "Team collection",
+      "url": "https://github.com/Turing-Projects-melatran/futbol/pull/8",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-04-08T18:01:44Z",
+      "number": 8,
+      "changedFiles": 10,
+      "additions": 202,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "futbol",
+        "url": "https://github.com/Turing-Projects-melatran/futbol",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDAwOTY3OTg5",
+      "title": "Melanie Tran",
+      "url": "https://github.com/turingschool-examples/colorado_lottery/pull/10",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2020-04-08T16:58:41Z",
+      "number": 10,
+      "changedFiles": 6,
+      "additions": 205,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "colorado_lottery",
+        "url": "https://github.com/turingschool-examples/colorado_lottery",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/8518346?v=4",
+          "login": "turingschool-examples",
+          "url": "https://github.com/turingschool-examples"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDAwNTE4Mzk2",
+      "title": "Team collection",
+      "url": "https://github.com/Turing-Projects-melatran/futbol/pull/4",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-04-07T21:46:07Z",
+      "number": 4,
+      "changedFiles": 5,
+      "additions": 56,
+      "deletions": 11,
+      "baseRepository": {
+        "name": "futbol",
+        "url": "https://github.com/Turing-Projects-melatran/futbol",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDAwNTE3MDk5",
+      "title": "Team collection",
+      "url": "https://github.com/turingschool-examples/futbol/pull/170",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-04-07T21:42:35Z",
+      "number": 170,
+      "changedFiles": 13,
+      "additions": 269,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "futbol",
+        "url": "https://github.com/turingschool-examples/futbol",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/8518346?v=4",
+          "login": "turingschool-examples",
+          "url": "https://github.com/turingschool-examples"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDAwNDc4OTYx",
+      "title": "Teams",
+      "url": "https://github.com/Turing-Projects-melatran/futbol/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/61103957?u=d5627a34f857e034175b7d903134b2f00466ac0d&v=4",
+        "url": "https://github.com/AntonioJacksonII",
+        "login": "AntonioJacksonII"
+      },
+      "createdAt": "2020-04-07T20:13:27Z",
+      "number": 2,
+      "changedFiles": 3,
+      "additions": 41,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "futbol",
+        "url": "https://github.com/Turing-Projects-melatran/futbol",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0Mzk5MzU3NjA4",
+      "title": "Melanie Tran",
+      "url": "https://github.com/turingschool-examples/black_thursday_lite/pull/98",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2020-04-06T03:23:52Z",
+      "number": 98,
+      "changedFiles": 10,
+      "additions": 155,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "black_thursday_lite",
+        "url": "https://github.com/turingschool-examples/black_thursday_lite",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/8518346?v=4",
+          "login": "turingschool-examples",
+          "url": "https://github.com/turingschool-examples"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0Mzk3MzI4NTcy",
+      "title": "Refactor",
+      "url": "https://github.com/Turing-Projects-melatran/battleship/pull/16",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars1.githubusercontent.com/u/54954621?u=fc477e01270bbe50cba9e12f1e8509daa326263a&v=4",
+        "url": "https://github.com/whitneykidd",
+        "login": "whitneykidd"
+      },
+      "createdAt": "2020-04-02T02:55:31Z",
+      "number": 16,
+      "changedFiles": 2,
+      "additions": 35,
+      "deletions": 28,
+      "baseRepository": {
+        "name": "battleship",
+        "url": "https://github.com/Turing-Projects-melatran/battleship",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0Mzk3MjA3NTI5",
+      "title": "Refactor",
+      "url": "https://github.com/Turing-Projects-melatran/battleship/pull/15",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars1.githubusercontent.com/u/54954621?u=fc477e01270bbe50cba9e12f1e8509daa326263a&v=4",
+        "url": "https://github.com/whitneykidd",
+        "login": "whitneykidd"
+      },
+      "createdAt": "2020-04-01T20:10:12Z",
+      "number": 15,
+      "changedFiles": 3,
+      "additions": 39,
+      "deletions": 21,
+      "baseRepository": {
+        "name": "battleship",
+        "url": "https://github.com/Turing-Projects-melatran/battleship",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0Mzk2NjU0NDM0",
+      "title": "Game",
+      "url": "https://github.com/Turing-Projects-melatran/battleship/pull/13",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars1.githubusercontent.com/u/54954621?u=fc477e01270bbe50cba9e12f1e8509daa326263a&v=4",
+        "url": "https://github.com/whitneykidd",
+        "login": "whitneykidd"
+      },
+      "createdAt": "2020-03-31T22:53:54Z",
+      "number": 13,
+      "changedFiles": 1,
+      "additions": 37,
+      "deletions": 18,
+      "baseRepository": {
+        "name": "battleship",
+        "url": "https://github.com/Turing-Projects-melatran/battleship",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0Mzk1OTQzMTUx",
+      "title": "Created place human ship methods",
+      "url": "https://github.com/Turing-Projects-melatran/battleship/pull/11",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars1.githubusercontent.com/u/54954621?u=fc477e01270bbe50cba9e12f1e8509daa326263a&v=4",
+        "url": "https://github.com/whitneykidd",
+        "login": "whitneykidd"
+      },
+      "createdAt": "2020-03-30T22:34:30Z",
+      "number": 11,
+      "changedFiles": 2,
+      "additions": 36,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "battleship",
+        "url": "https://github.com/Turing-Projects-melatran/battleship",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0Mzk0NTA4ODM0",
+      "title": "Placement of ship method",
+      "url": "https://github.com/Turing-Projects-melatran/battleship/pull/8",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars1.githubusercontent.com/u/54954621?u=fc477e01270bbe50cba9e12f1e8509daa326263a&v=4",
+        "url": "https://github.com/whitneykidd",
+        "login": "whitneykidd"
+      },
+      "createdAt": "2020-03-27T01:54:22Z",
+      "number": 8,
+      "changedFiles": 2,
+      "additions": 25,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "battleship",
+        "url": "https://github.com/Turing-Projects-melatran/battleship",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0Mzk0NTA2MjM2",
+      "title": "Place ship on board",
+      "url": "https://github.com/Turing-Projects-melatran/battleship/pull/7",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-03-27T01:42:03Z",
+      "number": 7,
+      "changedFiles": 2,
+      "additions": 26,
+      "deletions": 5,
+      "baseRepository": {
+        "name": "battleship",
+        "url": "https://github.com/Turing-Projects-melatran/battleship",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0Mzk0NDI0NTgw",
+      "title": "Refactor sunk? method in ship and the valid_coordinates method in board class",
+      "url": "https://github.com/Turing-Projects-melatran/battleship/pull/5",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars1.githubusercontent.com/u/54954621?u=fc477e01270bbe50cba9e12f1e8509daa326263a&v=4",
+        "url": "https://github.com/whitneykidd",
+        "login": "whitneykidd"
+      },
+      "createdAt": "2020-03-26T21:08:14Z",
+      "number": 5,
+      "changedFiles": 2,
+      "additions": 7,
+      "deletions": 16,
+      "baseRepository": {
+        "name": "battleship",
+        "url": "https://github.com/Turing-Projects-melatran/battleship",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzkzNzQxNTg3",
+      "title": "Board",
+      "url": "https://github.com/Turing-Projects-melatran/battleship/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars1.githubusercontent.com/u/54954621?u=fc477e01270bbe50cba9e12f1e8509daa326263a&v=4",
+        "url": "https://github.com/whitneykidd",
+        "login": "whitneykidd"
+      },
+      "createdAt": "2020-03-25T18:02:11Z",
+      "number": 3,
+      "changedFiles": 2,
+      "additions": 59,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "battleship",
+        "url": "https://github.com/Turing-Projects-melatran/battleship",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzkzMDM2ODM1",
+      "title": "Ship",
+      "url": "https://github.com/Turing-Projects-melatran/battleship/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars1.githubusercontent.com/u/54954621?u=fc477e01270bbe50cba9e12f1e8509daa326263a&v=4",
+        "url": "https://github.com/whitneykidd",
+        "login": "whitneykidd"
+      },
+      "createdAt": "2020-03-24T14:48:43Z",
+      "number": 1,
+      "changedFiles": 3,
+      "additions": 78,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "battleship",
+        "url": "https://github.com/Turing-Projects-melatran/battleship",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzkxOTU1MTQ1",
+      "title": "The game",
+      "url": "https://github.com/Turing-Projects-melatran/war_or_peace/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-03-22T04:27:43Z",
+      "number": 4,
+      "changedFiles": 3,
+      "additions": 183,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "war_or_peace",
+        "url": "https://github.com/Turing-Projects-melatran/war_or_peace",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzkxOTU0Njkx",
+      "title": "The game",
+      "url": "https://github.com/turingschool-examples/war_or_peace/pull/11",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-03-22T04:21:16Z",
+      "number": 11,
+      "changedFiles": 11,
+      "additions": 747,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "war_or_peace",
+        "url": "https://github.com/turingschool-examples/war_or_peace",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/8518346?v=4",
+          "login": "turingschool-examples",
+          "url": "https://github.com/turingschool-examples"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzkxODc3OTQ4",
+      "title": "Turn",
+      "url": "https://github.com/Turing-Projects-melatran/war_or_peace/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-03-21T16:10:01Z",
+      "number": 3,
+      "changedFiles": 3,
+      "additions": 394,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "war_or_peace",
+        "url": "https://github.com/Turing-Projects-melatran/war_or_peace",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzkxNjkwMjc1",
+      "title": "Removed a puts line for remove card method",
+      "url": "https://github.com/Turing-Projects-melatran/war_or_peace/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-03-20T18:50:28Z",
+      "number": 2,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "war_or_peace",
+        "url": "https://github.com/Turing-Projects-melatran/war_or_peace",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzkxNjg5ODM4",
+      "title": "Deck",
+      "url": "https://github.com/turingschool-examples/war_or_peace/pull/6",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-03-20T18:49:22Z",
+      "number": 6,
+      "changedFiles": 4,
+      "additions": 122,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "war_or_peace",
+        "url": "https://github.com/turingschool-examples/war_or_peace",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/8518346?v=4",
+          "login": "turingschool-examples",
+          "url": "https://github.com/turingschool-examples"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzkxNjg5NTM5",
+      "title": "Player",
+      "url": "https://github.com/Turing-Projects-melatran/war_or_peace/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+        "url": "https://github.com/melatran",
+        "login": "melatran"
+      },
+      "createdAt": "2020-03-20T18:48:35Z",
+      "number": 1,
+      "changedFiles": 3,
+      "additions": 49,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "war_or_peace",
+        "url": "https://github.com/Turing-Projects-melatran/war_or_peace",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/72309380?v=4",
+          "login": "Turing-Projects-melatran",
+          "url": "https://github.com/Turing-Projects-melatran"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0Mzc3NDYxODA5",
+      "title": "Melanie Tran",
+      "url": "https://github.com/turingschool-examples/backend_mod_1_prework/pull/259",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2020-02-20T00:03:44Z",
+      "number": 259,
+      "changedFiles": 46,
+      "additions": 1354,
+      "deletions": 77,
+      "baseRepository": {
+        "name": "backend_mod_1_prework",
+        "url": "https://github.com/turingschool-examples/backend_mod_1_prework",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/8518346?v=4",
+          "login": "turingschool-examples",
+          "url": "https://github.com/turingschool-examples"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzYxNjk4MDgy",
+      "title": "Add Melanie T Resources",
+      "url": "https://github.com/turingschool-examples/mod0resources/pull/290",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2020-01-11T05:45:51Z",
+      "number": 290,
+      "changedFiles": 1,
+      "additions": 4,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "mod0resources",
+        "url": "https://github.com/turingschool-examples/mod0resources",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/8518346?v=4",
+          "login": "turingschool-examples",
+          "url": "https://github.com/turingschool-examples"
+        }
+      }
+    }
+  ],
+  "merged": 84,
+  "open": 5,
+  "totalCount": 100
+}

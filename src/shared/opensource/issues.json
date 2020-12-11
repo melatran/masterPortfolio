@@ -1,1 +1,499 @@
-{"data":[{"id":"MDU6SXNzdWU2MDU0Nzg0NDk=","closed":false,"title":"Setting Up Workflow for the project","createdAt":"2020-04-23T12:06:14Z","url":"https://github.com/ashutosh1919/masterPortfolio/issues/2","number":2,"assignees":{"nodes":[{"avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","name":"Ashutosh Hathidara","url":"https://github.com/ashutosh1919"}]},"repository":{"name":"masterPortfolio","url":"https://github.com/ashutosh1919/masterPortfolio","owner":{"login":"ashutosh1919","avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","url":"https://github.com/ashutosh1919"}}},{"id":"MDU6SXNzdWU2MDI0NDg3NTY=","closed":false,"title":"In ModelCheckpoint, filepath is not accepting batch as formatting parameter.","createdAt":"2020-04-18T12:25:56Z","url":"https://github.com/tensorflow/tensorflow/issues/38668","number":38668,"assignees":{"nodes":[{"avatarUrl":"https://avatars2.githubusercontent.com/u/6505863?v=4","name":"Rick Chao","url":"https://github.com/rchao"}]},"repository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU2MDIzODIxNjI=","closed":false,"title":"save_freq is not accepting integer value in AverageModelCheckpoint","createdAt":"2020-04-18T05:19:27Z","url":"https://github.com/tensorflow/addons/issues/1701","number":1701,"assignees":{"nodes":[]},"repository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1OTg4NzQxMDI=","closed":true,"title":"Currently logs param is None for on_train_end() and on_test_end()","createdAt":"2020-04-13T12:56:17Z","url":"https://github.com/tensorflow/tensorflow/issues/38498","number":38498,"assignees":{"nodes":[{"avatarUrl":"https://avatars2.githubusercontent.com/u/51902062?v=4","name":null,"url":"https://github.com/ravikyram"}]},"repository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1OTgyNTg0MTQ=","closed":false,"title":"Need of flexible loss function GeneralLoss which can change behavior based on params","createdAt":"2020-04-11T12:41:54Z","url":"https://github.com/tensorflow/addons/issues/1646","number":1646,"assignees":{"nodes":[]},"repository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1OTU1NjQyODc=","closed":false,"title":"Not able to customize social-cards","createdAt":"2020-04-07T03:29:37Z","url":"https://github.com/apollographql/gatsby-theme-apollo/issues/110","number":110,"assignees":{"nodes":[]},"repository":{"name":"gatsby-theme-apollo","url":"https://github.com/apollographql/gatsby-theme-apollo","owner":{"login":"apollographql","avatarUrl":"https://avatars0.githubusercontent.com/u/17189275?v=4","url":"https://github.com/apollographql"}}},{"id":"MDU6SXNzdWU1OTMyNjQ3NTg=","closed":true,"title":"Adding config to override prettier (if set) in any code editor","createdAt":"2020-04-03T09:59:05Z","url":"https://github.com/saadpasta/developerFolio/issues/77","number":77,"assignees":{"nodes":[{"avatarUrl":"https://avatars0.githubusercontent.com/u/48270786?u=dab5f6dc64923f646b354f47f52af65f44fd9e7e&v=4","name":"Kartik Choudhary","url":"https://github.com/kartik918"}]},"repository":{"name":"developerFolio","url":"https://github.com/saadpasta/developerFolio","owner":{"login":"saadpasta","avatarUrl":"https://avatars2.githubusercontent.com/u/23307811?u=eab46b153eef3f5183930e61898b462447af9219&v=4","url":"https://github.com/saadpasta"}}},{"id":"MDU6SXNzdWU1OTE2NjAzNTE=","closed":false,"title":"Add Animations to Pinned Projects ","createdAt":"2020-04-01T06:24:47Z","url":"https://github.com/ashutosh1919/masterPortfolio/issues/1","number":1,"assignees":{"nodes":[]},"repository":{"name":"masterPortfolio","url":"https://github.com/ashutosh1919/masterPortfolio","owner":{"login":"ashutosh1919","avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","url":"https://github.com/ashutosh1919"}}},{"id":"MDU6SXNzdWU1OTAwMDczMDE=","closed":true,"title":"Improve the TFDS Getting Started Documentation","createdAt":"2020-03-30T05:37:01Z","url":"https://github.com/tensorflow/datasets/issues/1762","number":1762,"assignees":{"nodes":[]},"repository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1ODk1Nzk0NTc=","closed":true,"title":"BrowserRouter and HashRouter works for three Routes only","createdAt":"2020-03-28T13:40:27Z","url":"https://github.com/ReactTraining/react-router/issues/7223","number":7223,"assignees":{"nodes":[]},"repository":{"name":"react-router","url":"https://github.com/ReactTraining/react-router","owner":{"login":"ReactTraining","avatarUrl":"https://avatars1.githubusercontent.com/u/11823761?v=4","url":"https://github.com/ReactTraining"}}},{"id":"MDU6SXNzdWU1ODk1NzY4Nzg=","closed":true,"title":"BrowserRouter and HashRouter works for three Routes only ","createdAt":"2020-03-28T13:24:25Z","url":"https://github.com/facebook/react/issues/18414","number":18414,"assignees":{"nodes":[]},"repository":{"name":"react","url":"https://github.com/facebook/react","owner":{"login":"facebook","avatarUrl":"https://avatars3.githubusercontent.com/u/69631?v=4","url":"https://github.com/facebook"}}},{"id":"MDU6SXNzdWU1ODEwNjk1NjU=","closed":true,"title":"Required mean_absolute_relative_error (MARE) ","createdAt":"2020-03-14T06:39:28Z","url":"https://github.com/scikit-learn/scikit-learn/issues/16688","number":16688,"assignees":{"nodes":[]},"repository":{"name":"scikit-learn","url":"https://github.com/scikit-learn/scikit-learn","owner":{"login":"scikit-learn","avatarUrl":"https://avatars2.githubusercontent.com/u/365630?v=4","url":"https://github.com/scikit-learn"}}},{"id":"MDU6SXNzdWU1ODEwNDc0MDc=","closed":true,"title":"Example given in tf.image.rgb_to_yub is contadicting with the description.","createdAt":"2020-03-14T05:25:45Z","url":"https://github.com/tensorflow/tensorflow/issues/37591","number":37591,"assignees":{"nodes":[{"avatarUrl":"https://avatars2.githubusercontent.com/u/46058173?v=4","name":"Vishnuvardhan Janapati","url":"https://github.com/jvishnuvardhan"}]},"repository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1NzMyNTA1NjQ=","closed":false,"title":"ModuleNotFoundError: No module named 'tensorflow_datasets'","createdAt":"2020-02-29T08:28:06Z","url":"https://github.com/tensorflow/datasets/issues/1544","number":1544,"assignees":{"nodes":[]},"repository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1Njk4OTI2MTE=","closed":true,"title":"There are no documentations related to decode_predictions() and preprocess_input() in any keras.applications","createdAt":"2020-02-24T14:28:33Z","url":"https://github.com/tensorflow/tensorflow/issues/37021","number":37021,"assignees":{"nodes":[{"avatarUrl":"https://avatars2.githubusercontent.com/u/46058173?v=4","name":"Vishnuvardhan Janapati","url":"https://github.com/jvishnuvardhan"}]},"repository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1NTgwODYwMTM=","closed":true,"title":"Need for more flexible Loss Function","createdAt":"2020-01-31T11:50:06Z","url":"https://github.com/tensorflow/tensorflow/issues/36369","number":36369,"assignees":{"nodes":[{"avatarUrl":"https://avatars0.githubusercontent.com/u/13326758?u=af9430e7bc177fa3a1a256dd224b0765bd820bcf&v=4","name":"Pavithra Vijay","url":"https://github.com/pavithrasv"}]},"repository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU0OTQ1NzMwMzc=","closed":true,"title":"I am not able to import Dataset","createdAt":"2019-09-17T11:46:15Z","url":"https://github.com/aerdem4/lofo-importance/issues/26","number":26,"assignees":{"nodes":[]},"repository":{"name":"lofo-importance","url":"https://github.com/aerdem4/lofo-importance","owner":{"login":"aerdem4","avatarUrl":"https://avatars3.githubusercontent.com/u/24624210?u=58887e9c09a3c0576a8ce61ba881132ebf4c137c&v=4","url":"https://github.com/aerdem4"}}},{"id":"MDU6SXNzdWU0ODI4MTcwNjE=","closed":false,"title":"Setup Readme file in proper format","createdAt":"2019-08-20T11:58:49Z","url":"https://github.com/NebutechOpenSource/MLGen/issues/1","number":1,"assignees":{"nodes":[]},"repository":{"name":"MLGen","url":"https://github.com/NebutechOpenSource/MLGen","owner":{"login":"NebutechOpenSource","avatarUrl":"https://avatars3.githubusercontent.com/u/53137955?u=2abe60da5dfbd4b442e415e6c553f58a21cf9547&v=4","url":"https://github.com/NebutechOpenSource"}}}],"open":8,"closed":10,"totalCount":18}
+{
+  "closed": 15,
+  "data": [
+    {
+      "id": "MDU6SXNzdWU2OTU5NDUxMDY=",
+      "closed": true,
+      "title": "Student Lesson Endpoint",
+      "createdAt": "2020-09-08T14:54:56Z",
+      "url": "https://github.com/gumberoo/gumberoo_backend/issues/13",
+      "number": 13,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+            "name": "Melanie Tran",
+            "url": "https://github.com/melatran"
+          }
+        ]
+      },
+      "repository": {
+        "name": "gumberoo_backend",
+        "url": "https://github.com/gumberoo/gumberoo_backend",
+        "owner": {
+          "login": "gumberoo",
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/70665087?v=4",
+          "url": "https://github.com/gumberoo"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2ODU4MTU1OTg=",
+      "closed": true,
+      "title": "Add category to Products",
+      "createdAt": "2020-08-25T21:03:07Z",
+      "url": "https://github.com/kiverso/Crate/issues/43",
+      "number": 43,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+            "name": "Melanie Tran",
+            "url": "https://github.com/melatran"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Crate",
+        "url": "https://github.com/kiverso/Crate",
+        "owner": {
+          "login": "kiverso",
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/54010239?u=1dce30047dfbe6fed2357bacfffd16f3ab14c8fd&v=4",
+          "url": "https://github.com/kiverso"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2ODUwMzkxMTM=",
+      "closed": true,
+      "title": "User Testing",
+      "createdAt": "2020-08-24T23:01:18Z",
+      "url": "https://github.com/kiverso/Crate/issues/41",
+      "number": 41,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars1.githubusercontent.com/u/53917266?u=a8657e52534e212b01dfa03c5a50a669212378bc&v=4",
+            "name": "Mariana Cid",
+            "url": "https://github.com/Mariana-21"
+          },
+          {
+            "avatarUrl": "https://avatars3.githubusercontent.com/u/54010239?u=1dce30047dfbe6fed2357bacfffd16f3ab14c8fd&v=4",
+            "name": "Kyle Iverson",
+            "url": "https://github.com/kiverso"
+          },
+          {
+            "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+            "name": "Melanie Tran",
+            "url": "https://github.com/melatran"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Crate",
+        "url": "https://github.com/kiverso/Crate",
+        "owner": {
+          "login": "kiverso",
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/54010239?u=1dce30047dfbe6fed2357bacfffd16f3ab14c8fd&v=4",
+          "url": "https://github.com/kiverso"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2ODUwMzg2Mjc=",
+      "closed": true,
+      "title": "Products Testing",
+      "createdAt": "2020-08-24T23:00:01Z",
+      "url": "https://github.com/kiverso/Crate/issues/40",
+      "number": 40,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars1.githubusercontent.com/u/53917266?u=a8657e52534e212b01dfa03c5a50a669212378bc&v=4",
+            "name": "Mariana Cid",
+            "url": "https://github.com/Mariana-21"
+          },
+          {
+            "avatarUrl": "https://avatars3.githubusercontent.com/u/54010239?u=1dce30047dfbe6fed2357bacfffd16f3ab14c8fd&v=4",
+            "name": "Kyle Iverson",
+            "url": "https://github.com/kiverso"
+          },
+          {
+            "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+            "name": "Melanie Tran",
+            "url": "https://github.com/melatran"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Crate",
+        "url": "https://github.com/kiverso/Crate",
+        "owner": {
+          "login": "kiverso",
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/54010239?u=1dce30047dfbe6fed2357bacfffd16f3ab14c8fd&v=4",
+          "url": "https://github.com/kiverso"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2ODUwMzc3NjY=",
+      "closed": true,
+      "title": "Create Method to Find Products for Quiz",
+      "createdAt": "2020-08-24T22:57:44Z",
+      "url": "https://github.com/kiverso/Crate/issues/39",
+      "number": 39,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars1.githubusercontent.com/u/53917266?u=a8657e52534e212b01dfa03c5a50a669212378bc&v=4",
+            "name": "Mariana Cid",
+            "url": "https://github.com/Mariana-21"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Crate",
+        "url": "https://github.com/kiverso/Crate",
+        "owner": {
+          "login": "kiverso",
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/54010239?u=1dce30047dfbe6fed2357bacfffd16f3ab14c8fd&v=4",
+          "url": "https://github.com/kiverso"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2ODQyMjc0Mzc=",
+      "closed": true,
+      "title": "Create update method in resolver/mutations",
+      "createdAt": "2020-08-23T17:52:27Z",
+      "url": "https://github.com/kiverso/Crate/issues/34",
+      "number": 34,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars1.githubusercontent.com/u/53917266?u=a8657e52534e212b01dfa03c5a50a669212378bc&v=4",
+            "name": "Mariana Cid",
+            "url": "https://github.com/Mariana-21"
+          },
+          {
+            "avatarUrl": "https://avatars3.githubusercontent.com/u/54010239?u=1dce30047dfbe6fed2357bacfffd16f3ab14c8fd&v=4",
+            "name": "Kyle Iverson",
+            "url": "https://github.com/kiverso"
+          },
+          {
+            "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+            "name": "Melanie Tran",
+            "url": "https://github.com/melatran"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Crate",
+        "url": "https://github.com/kiverso/Crate",
+        "owner": {
+          "login": "kiverso",
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/54010239?u=1dce30047dfbe6fed2357bacfffd16f3ab14c8fd&v=4",
+          "url": "https://github.com/kiverso"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2ODQyMjY5NTg=",
+      "closed": true,
+      "title": "Add inSurvey to products",
+      "createdAt": "2020-08-23T17:49:21Z",
+      "url": "https://github.com/kiverso/Crate/issues/33",
+      "number": 33,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars1.githubusercontent.com/u/53917266?u=a8657e52534e212b01dfa03c5a50a669212378bc&v=4",
+            "name": "Mariana Cid",
+            "url": "https://github.com/Mariana-21"
+          },
+          {
+            "avatarUrl": "https://avatars3.githubusercontent.com/u/54010239?u=1dce30047dfbe6fed2357bacfffd16f3ab14c8fd&v=4",
+            "name": "Kyle Iverson",
+            "url": "https://github.com/kiverso"
+          },
+          {
+            "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+            "name": "Melanie Tran",
+            "url": "https://github.com/melatran"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Crate",
+        "url": "https://github.com/kiverso/Crate",
+        "owner": {
+          "login": "kiverso",
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/54010239?u=1dce30047dfbe6fed2357bacfffd16f3ab14c8fd&v=4",
+          "url": "https://github.com/kiverso"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2ODQyMjQ5OTk=",
+      "closed": true,
+      "title": "Add style to products",
+      "createdAt": "2020-08-23T17:37:59Z",
+      "url": "https://github.com/kiverso/Crate/issues/32",
+      "number": 32,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars1.githubusercontent.com/u/53917266?u=a8657e52534e212b01dfa03c5a50a669212378bc&v=4",
+            "name": "Mariana Cid",
+            "url": "https://github.com/Mariana-21"
+          },
+          {
+            "avatarUrl": "https://avatars3.githubusercontent.com/u/54010239?u=1dce30047dfbe6fed2357bacfffd16f3ab14c8fd&v=4",
+            "name": "Kyle Iverson",
+            "url": "https://github.com/kiverso"
+          },
+          {
+            "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+            "name": "Melanie Tran",
+            "url": "https://github.com/melatran"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Crate",
+        "url": "https://github.com/kiverso/Crate",
+        "owner": {
+          "login": "kiverso",
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/54010239?u=1dce30047dfbe6fed2357bacfffd16f3ab14c8fd&v=4",
+          "url": "https://github.com/kiverso"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2ODQyMjM5Mzc=",
+      "closed": true,
+      "title": "User takes quiz",
+      "createdAt": "2020-08-23T17:31:25Z",
+      "url": "https://github.com/kiverso/Crate/issues/28",
+      "number": 28,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Crate",
+        "url": "https://github.com/kiverso/Crate",
+        "owner": {
+          "login": "kiverso",
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/54010239?u=1dce30047dfbe6fed2357bacfffd16f3ab14c8fd&v=4",
+          "url": "https://github.com/kiverso"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2ODQyMjMxMzA=",
+      "closed": true,
+      "title": "Decide if user needs to take quiz",
+      "createdAt": "2020-08-23T17:26:55Z",
+      "url": "https://github.com/kiverso/Crate/issues/27",
+      "number": 27,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Crate",
+        "url": "https://github.com/kiverso/Crate",
+        "owner": {
+          "login": "kiverso",
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/54010239?u=1dce30047dfbe6fed2357bacfffd16f3ab14c8fd&v=4",
+          "url": "https://github.com/kiverso"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2ODQyMDk3NTM=",
+      "closed": true,
+      "title": "Add styleResult to Users",
+      "createdAt": "2020-08-23T16:03:56Z",
+      "url": "https://github.com/kiverso/Crate/issues/26",
+      "number": 26,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars3.githubusercontent.com/u/54010239?u=1dce30047dfbe6fed2357bacfffd16f3ab14c8fd&v=4",
+            "name": "Kyle Iverson",
+            "url": "https://github.com/kiverso"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Crate",
+        "url": "https://github.com/kiverso/Crate",
+        "owner": {
+          "login": "kiverso",
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/54010239?u=1dce30047dfbe6fed2357bacfffd16f3ab14c8fd&v=4",
+          "url": "https://github.com/kiverso"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2ODQyMDg1NDE=",
+      "closed": true,
+      "title": "Find Images For Quiz",
+      "createdAt": "2020-08-23T15:56:48Z",
+      "url": "https://github.com/kiverso/Crate/issues/25",
+      "number": 25,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars1.githubusercontent.com/u/53917266?u=a8657e52534e212b01dfa03c5a50a669212378bc&v=4",
+            "name": "Mariana Cid",
+            "url": "https://github.com/Mariana-21"
+          },
+          {
+            "avatarUrl": "https://avatars3.githubusercontent.com/u/54010239?u=1dce30047dfbe6fed2357bacfffd16f3ab14c8fd&v=4",
+            "name": "Kyle Iverson",
+            "url": "https://github.com/kiverso"
+          },
+          {
+            "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+            "name": "Melanie Tran",
+            "url": "https://github.com/melatran"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Crate",
+        "url": "https://github.com/kiverso/Crate",
+        "owner": {
+          "login": "kiverso",
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/54010239?u=1dce30047dfbe6fed2357bacfffd16f3ab14c8fd&v=4",
+          "url": "https://github.com/kiverso"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2ODIzNjM0Mzc=",
+      "closed": true,
+      "title": "Pseudo Plan - BE",
+      "createdAt": "2020-08-20T03:12:46Z",
+      "url": "https://github.com/kiverso/Crate/issues/20",
+      "number": 20,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars1.githubusercontent.com/u/53917266?u=a8657e52534e212b01dfa03c5a50a669212378bc&v=4",
+            "name": "Mariana Cid",
+            "url": "https://github.com/Mariana-21"
+          },
+          {
+            "avatarUrl": "https://avatars3.githubusercontent.com/u/54010239?u=1dce30047dfbe6fed2357bacfffd16f3ab14c8fd&v=4",
+            "name": "Kyle Iverson",
+            "url": "https://github.com/kiverso"
+          },
+          {
+            "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+            "name": "Melanie Tran",
+            "url": "https://github.com/melatran"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Crate",
+        "url": "https://github.com/kiverso/Crate",
+        "owner": {
+          "login": "kiverso",
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/54010239?u=1dce30047dfbe6fed2357bacfffd16f3ab14c8fd&v=4",
+          "url": "https://github.com/kiverso"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2ODIzMjc4MjU=",
+      "closed": true,
+      "title": "BE Annotations",
+      "createdAt": "2020-08-20T02:39:45Z",
+      "url": "https://github.com/kiverso/Crate/issues/13",
+      "number": 13,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars1.githubusercontent.com/u/53917266?u=a8657e52534e212b01dfa03c5a50a669212378bc&v=4",
+            "name": "Mariana Cid",
+            "url": "https://github.com/Mariana-21"
+          },
+          {
+            "avatarUrl": "https://avatars3.githubusercontent.com/u/54010239?u=1dce30047dfbe6fed2357bacfffd16f3ab14c8fd&v=4",
+            "name": "Kyle Iverson",
+            "url": "https://github.com/kiverso"
+          },
+          {
+            "avatarUrl": "https://avatars0.githubusercontent.com/u/59414750?u=af0be0e281421b93336c2119a22436b7122e2eae&v=4",
+            "name": "Melanie Tran",
+            "url": "https://github.com/melatran"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Crate",
+        "url": "https://github.com/kiverso/Crate",
+        "owner": {
+          "login": "kiverso",
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/54010239?u=1dce30047dfbe6fed2357bacfffd16f3ab14c8fd&v=4",
+          "url": "https://github.com/kiverso"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2ODEyMTIxMjg=",
+      "closed": false,
+      "title": "Continuous Integration",
+      "createdAt": "2020-08-18T17:30:55Z",
+      "url": "https://github.com/kiverso/Crate/issues/4",
+      "number": 4,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Crate",
+        "url": "https://github.com/kiverso/Crate",
+        "owner": {
+          "login": "kiverso",
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/54010239?u=1dce30047dfbe6fed2357bacfffd16f3ab14c8fd&v=4",
+          "url": "https://github.com/kiverso"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2ODEyMDkwMjI=",
+      "closed": false,
+      "title": "Deploy to Heroku",
+      "createdAt": "2020-08-18T17:25:33Z",
+      "url": "https://github.com/kiverso/Crate/issues/3",
+      "number": 3,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Crate",
+        "url": "https://github.com/kiverso/Crate",
+        "owner": {
+          "login": "kiverso",
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/54010239?u=1dce30047dfbe6fed2357bacfffd16f3ab14c8fd&v=4",
+          "url": "https://github.com/kiverso"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1ODcyOTcxMDk=",
+      "closed": true,
+      "title": "Confirm booking reloads to schedule",
+      "createdAt": "2020-03-24T21:41:20Z",
+      "url": "https://github.com/hillstew/paired-fe/issues/95",
+      "number": 95,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "paired-fe",
+        "url": "https://github.com/hillstew/paired-fe",
+        "owner": {
+          "login": "hillstew",
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/36748280?u=c78589d84713efea0c960607d0c0d5d428c502d9&v=4",
+          "url": "https://github.com/hillstew"
+        }
+      }
+    }
+  ],
+  "open": 2,
+  "totalCount": 17
+}
