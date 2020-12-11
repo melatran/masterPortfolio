@@ -1,75 +1,58 @@
 {
   "data": [
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyOTMxMzcyNTA=",
-      "name": "gumberoo_backend",
-      "createdAt": "2020-09-05T18:59:42Z",
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Gumberoo Backend",
+      "createdAt": "Python, Django",
       "url": "https://github.com/gumberoo/gumberoo_backend",
-      "description": "Gumberoo's API is built on Python and Django. Gumberoo is a website for elementary school educators inspired by the education learning experience during the pandemic of 2020.",
+      "description": "An assessment app for educators inspired by the pandemic of 2020.",
       "isFork": false,
       "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        }
+        "Python"
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyODEyMzcyNTY=",
-      "name": "i-scream-arcade",
-      "createdAt": "2020-07-20T22:20:05Z",
-      "url": "https://github.com/perryr16/i-scream-arcade",
-      "description": null,
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "FinGoal",
+      "createdAt": "JavaScript, Express, Node, typescript",
+      "url": "https://www.fingoal.com/",
+      "description": "Built location microservice for automation service to enhance user financial advice",
       "isFork": false,
       "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        }
+        "Python"
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyODQxNDIyNzA=",
-      "name": "sweater_weather",
-      "createdAt": "2020-07-31T22:38:40Z",
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Sweater Weather",
+      "createdAt": "Ruby on Rails",
       "url": "https://github.com/melatran/sweater_weather",
-      "description": "You are a back-end developer working on a team that is building an application to plan road trips. This app will allow users to see the current weather as well as the forecasted weather at the destination. Your team is working in a service-oriented architecture.",
+      "description": "An API built to see the current and predicted forecast at a destination.",
       "isFork": false,
       "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        }
+        "Python"
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNzg5MDI1OTA=",
-      "name": "rails_engine",
-      "createdAt": "2020-07-11T16:46:07Z",
-      "url": "https://github.com/Turing-Projects-melatran/rails_engine",
-      "description": "Rails Engine is an E-Commerce Application. It is working in a service-oriented architecture, meaning the front and back ends of this application are separate and communicate via APIs. My job in the backend is to expose the data that powers the site through an API that the front end will consume.",
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "iScream Arcade",
+      "createdAt": "Ruby on Rails, CSS, HTML",
+      "url": "https://github.com/Turing-Projects-melatran/i-scream-arcade",
+      "description": "An app designed to assist users in their hunt for the next terrifying video game",
       "isFork": false,
       "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        }
+        "Python"
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Rails Engine",
+      "createdAt": "Ruby on Rails",
+      "url": "https://github.com/Turing-Projects-melatran/rails_engine",
+      "description": "An API built for an e-commerce website",
+      "isFork": false,
+      "languages": [
+        "Python"
       ]
     }
   ]
